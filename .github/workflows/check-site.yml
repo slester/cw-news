@@ -1,0 +1,58 @@
+name: Check published site
+
+# After each GitHub Pages build, fetch the five feeds and the newest MP3 the way a
+# podcast app would (including a byte-range request, which Apple requires) and
+# record the result in data/site-check.txt.
+on:
+  page_build:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: check-site
+  cancel-in-progress: true
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check feeds and audio
+        run: |
+          sleep 60   # let the Pages CDN pick up the new build
+          python3 - <<'EOF' > data/site-check.txt
+          import datetime, json, urllib.request, xml.etree.ElementTree as ET
+          cfg = json.load(open("config.json"))
+          base = cfg["base_url"].rstrip("/")
+          ns = {"itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd"}
+          lines, ok = [], True
+          for sp in cfg["speeds"]:
+              url = f"{base}/feeds/{sp['wpm']}wpm.xml"
+              try:
+                  ch = ET.fromstring(urllib.request.urlopen(url, timeout=30).read()).find("channel")
+                  items = ch.findall("item")
+                  enc = items[0].find("enclosure")
+                  req = urllib.request.Request(enc.get("url"), headers={"Range": "bytes=0-1023"})
+                  r = urllib.request.urlopen(req, timeout=30)
+                  art = urllib.request.urlopen(ch.find("itunes:image", ns).get("href"), timeout=30)
+                  good = r.status == 206 and art.status == 200
+                  lines.append(f"{'OK  ' if good else 'FAIL'} {sp['wpm']}wpm: {len(items)} episodes, "
+                               f"newest {items[0].findtext('title')}, range {r.status}, art {art.status}")
+                  ok &= good
+              except Exception as e:
+                  lines.append(f"FAIL {sp['wpm']}wpm: {e}")
+                  ok = False
+          print(f"{'PASS' if ok else 'FAIL'} {datetime.datetime.utcnow():%Y-%m-%dT%H:%M:%SZ}")
+          print("\n".join(lines))
+          EOF
+          cat data/site-check.txt
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898099+github-actions[bot]@users.noreply.github.com"
+          git add data/site-check.txt
+          git commit -m "Site check: $(head -1 data/site-check.txt)" || exit 0
+          for i in 1 2 3; do git pull --rebase origin main && git push && exit 0; sleep 10; done
+          exit 1

@@ -5,6 +5,7 @@ name: Snapshot BBC top stories
 on:
   schedule:
     - cron: "30 3 * * *"   # 04:30 Paris in winter, 05:30 in summer
+    - cron: "10 4 * * *"   # backup in case GitHub skips the first run
   workflow_dispatch:
   push:
     branches: [main]
