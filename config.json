@@ -1,0 +1,21 @@
+{
+  "show_title": "CW Headlines",
+  "tagline": "The day's top ten news stories, sent in Morse code",
+  "author": "F4W",
+  "owner_email": "",
+  "base_url": "https://slester.github.io/cw-news",
+  "language": "en",
+  "timezone": "Europe/Paris",
+  "publish_time": "07:00",
+  "retention_days": 14,
+  "tone_hz": 600,
+  "sample_rate": 32000,
+  "bitrate": "32k",
+  "speeds": [
+    {"wpm": 10, "farnsworth_char_wpm": 20},
+    {"wpm": 15, "farnsworth_char_wpm": 20},
+    {"wpm": 20},
+    {"wpm": 25},
+    {"wpm": 30}
+  ]
+}

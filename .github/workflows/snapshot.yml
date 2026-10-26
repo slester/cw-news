@@ -1,0 +1,40 @@
+name: Snapshot BBC top stories
+
+# Saves the BBC News top-stories RSS feed into data/ so the daily summary run
+# (which can't reach bbc.co.uk directly) can read it from the repo.
+on:
+  schedule:
+    - cron: "30 3 * * *"   # 04:30 Paris in winter, 05:30 in summer
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [".github/workflows/snapshot.yml"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: snapshot
+  cancel-in-progress: false
+
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch feed
+        run: |
+          mkdir -p data
+          curl -fsSL --retry 4 --retry-delay 20 -A "cw-headlines-snapshot (+https://github.com/${{ github.repository }})" \
+            https://feeds.bbci.co.uk/news/rss.xml -o data/bbc-top-stories.xml.new
+          python3 -c "import xml.etree.ElementTree as E; r=E.parse('data/bbc-top-stories.xml.new'); n=len(r.findall('./channel/item')); assert n>=10, n; print(n, 'items')"
+          mv data/bbc-top-stories.xml.new data/bbc-top-stories.xml
+          date -u +%Y-%m-%dT%H:%M:%SZ > data/snapshot-time.txt
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898099+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git commit -m "Snapshot BBC top stories $(cat data/snapshot-time.txt)" || exit 0
+          for i in 1 2 3; do git pull --rebase origin main && git push && exit 0; sleep 10; done
+          exit 1
