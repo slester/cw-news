@@ -43,11 +43,19 @@ def speed_label(speed: dict) -> str:
     return f"{speed['wpm']} WPM"
 
 
-def transmission(ed: dict) -> str:
+def transmission_lines(ed: dict) -> list[tuple[str, str | None]]:
+    """The transmission as (line, story link) pairs; joined with spaces it is exactly what is keyed."""
     d = dt.date.fromisoformat(ed["date"])
-    header = f"VVV VVV <BT> CW HEADLINES {d.day} {MONTHS[d.month - 1]} {d.year} <BT>"
-    body = " <BT> ".join(f"NR {i} {s['text']}" for i, s in enumerate(ed["stories"], 1))
-    return f"{header} {body} <AR>"
+    lines = [(f"VVV VVV <BT> CW HEADLINES {d.day} {MONTHS[d.month - 1]} {d.year} <BT>", None)]
+    stories = ed["stories"]
+    for i, s in enumerate(stories, 1):
+        end = "<AR>" if i == len(stories) else "<BT>"
+        lines.append((f"NR {i} {s['text']} {end}", s.get("link")))
+    return lines
+
+
+def transmission(ed: dict) -> str:
+    return " ".join(line for line, _ in transmission_lines(ed))
 
 
 def validate(ed: dict, name: str) -> list[str]:
@@ -78,19 +86,20 @@ def pub_datetime(ed: dict, cfg: dict) -> dt.datetime:
                                tzinfo=ZoneInfo(cfg["timezone"]))
 
 
-def show_notes(ed: dict, speed: dict) -> str:
-    items = []
-    for i, s in enumerate(ed["stories"], 1):
-        copy, _ = morse.normalise(s["text"])
-        link = f' <a href="{html.escape(s["link"])}">Story</a>' if s.get("link") else ""
-        items.append(f"<li>NR {i} {html.escape(copy)}{link}</li>")
-    return (
-        f"<p>Today's ten stories in Morse code at {html.escape(speed_label(speed))}. "
-        "Copy along, then check yourself against the text below.</p>"
-        f"<ol>{''.join(items)}</ol>"
-        "<p>Stories are picked from the BBC News top-stories feed and summarized "
-        "independently. This podcast is not affiliated with the BBC.</p>"
-    )
+def stamp(seconds: float) -> str:
+    s = int(seconds)  # round down so a jump lands in the gap just before the line
+    h, m, s = s // 3600, s // 60 % 60, s % 60
+    return f"{h}:{m:02d}:{s:02d}" if h else f"{m}:{s:02d}"
+
+
+def show_notes(ed: dict, marks: list[float]) -> str:
+    """Exactly what is sent, one paragraph per line: start time, the line, then the story link."""
+    paras = []
+    for (line, link), t in zip(transmission_lines(ed), marks):
+        sent, _ = morse.normalise(line)
+        a = f' <a href="{html.escape(link)}">Story</a>' if link else ""
+        paras.append(f"<p>{stamp(t)} {html.escape(sent)}{a}</p>")
+    return "".join(paras)
 
 
 def channel_description(cfg: dict, speed: dict) -> str:
@@ -231,24 +240,27 @@ def main() -> int:
     index = load_json(index_path, {})
     wanted = set()
     for ed in kept:
-        text = transmission(ed)
-        digest = hashlib.sha256(text.encode()).hexdigest()[:16]
+        lines = [line for line, _ in transmission_lines(ed)]
+        digest = hashlib.sha256(transmission(ed).encode()).hexdigest()[:16]
         for sp in cfg["speeds"]:
             name = f"{ed['date']}-{slug(sp)}.mp3"
             wanted.add(name)
             meta = index.get(name)
             out = site / "audio" / name
-            if args.force or not out.exists() or not meta or meta.get("hash") != digest:
+            if (args.force or not out.exists() or not meta or meta.get("hash") != digest
+                    or len(meta.get("marks", [])) != len(lines)):
                 timing = morse.timing_for(sp["wpm"], sp.get("farnsworth_char_wpm"))
                 d = dt.date.fromisoformat(ed["date"])
+                marks = []
                 duration = morse.render_mp3(
-                    text, timing, str(out), sr=cfg["sample_rate"], bitrate=cfg["bitrate"],
+                    lines, timing, str(out), marks=marks, sr=cfg["sample_rate"], bitrate=cfg["bitrate"],
                     freq=cfg["tone_hz"], cover=str(ROOT / "art" / f"{slug(sp)}-600.jpg"),
                     tags={"title": f"{d.day} {d.strftime('%b %Y')} · {sp['wpm']} WPM",
                           "artist": cfg["author"],
                           "album": f"{cfg['show_title']} · {sp['wpm']} WPM",
                           "date": ed["date"], "genre": "Podcast"})
-                index[name] = {"duration": duration, "bytes": out.stat().st_size, "hash": digest}
+                index[name] = {"duration": duration, "bytes": out.stat().st_size, "hash": digest,
+                               "marks": [round(m, 3) for m in marks]}
                 print(f"rendered {name}  {duration / 60:5.1f} min  {out.stat().st_size / 1e6:4.1f} MB")
 
     for f in (site / "audio").glob("*.mp3"):
@@ -265,7 +277,7 @@ def main() -> int:
             name = f"{ed['date']}-{slug(sp)}.mp3"
             eps.append({"date": ed["date"], "file": name, "pub": pub_datetime(ed, cfg),
                         "duration": index[name]["duration"], "bytes": index[name]["bytes"],
-                        "notes": show_notes(ed, sp)})
+                        "notes": show_notes(ed, index[name]["marks"])})
         print(f"wrote {write_feed(cfg, sp, eps, site).relative_to(site)} ({len(eps)} episodes)")
     write_index(cfg, site, kept[0]["date"] if kept else None)
     return 0

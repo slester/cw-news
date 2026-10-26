@@ -128,17 +128,29 @@ def _silence(seconds: float, sr: int) -> np.ndarray:
     return np.zeros(int(round(seconds * sr)), dtype=np.int16)
 
 
-def render_pcm(text: str, timing: Timing, *, sr: int = 32000, freq: float = 600.0,
+def render_pcm(text: str | list[str], timing: Timing, *, sr: int = 32000, freq: float = 600.0,
                amp: float = 0.7, ramp: float = 0.005, lead_in: float = 1.0,
-               tail: float = 2.0):
-    """Yield int16 PCM chunks (one per word) for the given text."""
-    norm, _ = normalise(text)
+               tail: float = 2.0, marks: list | None = None):
+    """Yield int16 PCM chunks (one per word).
+
+    `text` may be a list of lines; they are sent as if joined with spaces. If `marks`
+    is given, the start time in seconds of each line is appended to it.
+    """
+    lines = [text] if isinstance(text, str) else list(text)
+    words, owner = [], []
+    for li, line in enumerate(lines):
+        for w in tokenize(normalise(line)[0]):
+            words.append(w)
+            owner.append(li)
     u = timing.unit
     dit, dah = _tone(u, sr, freq, amp, ramp), _tone(3 * u, sr, freq, amp, ramp)
     gap_el, gap_ch, gap_wd = _silence(u, sr), _silence(timing.char_gap, sr), _silence(timing.word_gap, sr)
-    yield _silence(lead_in, sr)
-    words = tokenize(norm)
+    lead = _silence(lead_in, sr)
+    pos = len(lead)
+    yield lead
     for wi, word in enumerate(words):
+        if marks is not None and (wi == 0 or owner[wi] != owner[wi - 1]):
+            marks.append(pos / sr)
         parts = []
         for ci, ch in enumerate(word):
             for ei, el in enumerate(ch):
@@ -149,14 +161,16 @@ def render_pcm(text: str, timing: Timing, *, sr: int = 32000, freq: float = 600.
                 parts.append(gap_ch)
         if wi < len(words) - 1:
             parts.append(gap_wd)
-        yield np.concatenate(parts)
+        chunk = np.concatenate(parts)
+        pos += len(chunk)
+        yield chunk
     yield _silence(tail, sr)
 
 
-def render_mp3(text: str, timing: Timing, out_path: str, *, sr: int = 32000,
+def render_mp3(text: str | list[str], timing: Timing, out_path: str, *, sr: int = 32000,
                bitrate: str = "32k", freq: float = 600.0, tags: dict | None = None,
-               cover: str | None = None) -> float:
-    """Encode the transmission to MP3. Returns duration in seconds."""
+               cover: str | None = None, marks: list | None = None) -> float:
+    """Encode the transmission to MP3. Returns duration in seconds; fills `marks` (see render_pcm)."""
     cmd = ["ffmpeg", "-hide_banner", "-loglevel", "error", "-y",
            "-f", "s16le", "-ar", str(sr), "-ac", "1", "-i", "-"]
     if cover:
@@ -169,7 +183,7 @@ def render_mp3(text: str, timing: Timing, out_path: str, *, sr: int = 32000,
     cmd.append(out_path)
     proc = subprocess.Popen(cmd, stdin=subprocess.PIPE)
     samples = 0
-    for chunk in render_pcm(text, timing, sr=sr, freq=freq):
+    for chunk in render_pcm(text, timing, sr=sr, freq=freq, marks=marks):
         samples += len(chunk)
         proc.stdin.write(chunk.tobytes())
     proc.stdin.close()

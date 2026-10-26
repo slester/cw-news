@@ -29,7 +29,7 @@ Each transmission is sent like this:
 VVV VVV <BT> CW HEADLINES 27 OCT 2026 <BT> NR 1 ... <BT> NR 2 ... <BT> ... NR 10 ... <AR>
 ```
 
-The episode notes carry the plain-text copy and a link to each story, so you can check what you copied.
+The episode notes show exactly what is sent, one line per story with the time it starts in that episode and a link to the story, so you can check what you copied.
 
 ## Files
 
