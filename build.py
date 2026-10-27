@@ -25,6 +25,7 @@ import morse
 
 ROOT = Path(__file__).resolve().parent
 MONTHS = "JAN FEB MAR APR MAY JUN JUL AUG SEP OCT NOV DEC".split()
+AUDIO_KEYS = ("tone_hz", "sample_rate", "bitrate", "noise_floor_dbfs")
 
 
 def load_json(path: Path, default=None):
@@ -239,9 +240,11 @@ def main() -> int:
     index_path = site / "episodes.json"
     index = load_json(index_path, {})
     wanted = set()
+    # Audio settings are part of the hash, so changing any of them re-renders retained episodes.
+    audio_cfg = json.dumps({k: cfg.get(k) for k in AUDIO_KEYS}, sort_keys=True)
     for ed in kept:
         lines = [line for line, _ in transmission_lines(ed)]
-        digest = hashlib.sha256(transmission(ed).encode()).hexdigest()[:16]
+        digest = hashlib.sha256((transmission(ed) + audio_cfg).encode()).hexdigest()[:16]
         for sp in cfg["speeds"]:
             name = f"{ed['date']}-{slug(sp)}.mp3"
             wanted.add(name)
@@ -254,7 +257,8 @@ def main() -> int:
                 marks = []
                 duration = morse.render_mp3(
                     lines, timing, str(out), marks=marks, sr=cfg["sample_rate"], bitrate=cfg["bitrate"],
-                    freq=cfg["tone_hz"], cover=str(ROOT / "art" / f"{slug(sp)}-600.jpg"),
+                    freq=cfg["tone_hz"], noise_dbfs=cfg.get("noise_floor_dbfs"),
+                    cover=str(ROOT / "art" / f"{slug(sp)}-600.jpg"),
                     tags={"title": f"{d.day} {d.strftime('%b %Y')} · {sp['wpm']} WPM",
                           "artist": cfg["author"],
                           "album": f"{cfg['show_title']} · {sp['wpm']} WPM",

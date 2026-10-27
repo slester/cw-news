@@ -4,6 +4,12 @@ Timing follows the PARIS standard: one unit = 1.2 / wpm seconds.
 When an effective speed lower than the character speed is given, the
 Farnsworth method (ARRL, Bloom KE3Z) stretches only the gaps between
 characters and words, so letters keep the sound of the faster speed.
+
+A faint noise floor can be mixed under the whole transmission. The Apple
+Podcasts app clicks every time the audio falls to exact digital silence (the
+same file plays cleanly from the Files app), so the gaps between elements must
+never be true zeros. At -60 dBFS the noise survives 32 kbps MP3 encoding
+(about -63 dBFS RMS after decoding) and sits ~60 dB under the tone.
 """
 from __future__ import annotations
 
@@ -128,14 +134,29 @@ def _silence(seconds: float, sr: int) -> np.ndarray:
     return np.zeros(int(round(seconds * sr)), dtype=np.int16)
 
 
+def _noise_mixer(noise_dbfs: float | None):
+    """Return a function that adds white noise at `noise_dbfs` (RMS) to an int16 chunk."""
+    if noise_dbfs is None:
+        return lambda chunk: chunk
+    rng = np.random.default_rng(0)  # fixed seed: the same edition always renders identically
+    scale = 32767 * 10 ** (noise_dbfs / 20)
+
+    def mix(chunk: np.ndarray) -> np.ndarray:
+        noise = np.round(rng.standard_normal(len(chunk)) * scale).astype(np.int32)
+        return np.clip(chunk.astype(np.int32) + noise, -32768, 32767).astype(np.int16)
+    return mix
+
+
 def render_pcm(text: str | list[str], timing: Timing, *, sr: int = 32000, freq: float = 600.0,
                amp: float = 0.7, ramp: float = 0.005, lead_in: float = 1.0,
-               tail: float = 2.0, marks: list | None = None):
+               tail: float = 2.0, marks: list | None = None, noise_dbfs: float | None = None):
     """Yield int16 PCM chunks (one per word).
 
     `text` may be a list of lines; they are sent as if joined with spaces. If `marks`
-    is given, the start time in seconds of each line is appended to it.
+    is given, the start time in seconds of each line is appended to it. If `noise_dbfs`
+    is given, white noise at that RMS level runs under the whole transmission.
     """
+    mix = _noise_mixer(noise_dbfs)
     lines = [text] if isinstance(text, str) else list(text)
     words, owner = [], []
     for li, line in enumerate(lines):
@@ -147,7 +168,7 @@ def render_pcm(text: str | list[str], timing: Timing, *, sr: int = 32000, freq: 
     gap_el, gap_ch, gap_wd = _silence(u, sr), _silence(timing.char_gap, sr), _silence(timing.word_gap, sr)
     lead = _silence(lead_in, sr)
     pos = len(lead)
-    yield lead
+    yield mix(lead)
     for wi, word in enumerate(words):
         if marks is not None and (wi == 0 or owner[wi] != owner[wi - 1]):
             marks.append(pos / sr)
@@ -163,13 +184,14 @@ def render_pcm(text: str | list[str], timing: Timing, *, sr: int = 32000, freq: 
             parts.append(gap_wd)
         chunk = np.concatenate(parts)
         pos += len(chunk)
-        yield chunk
-    yield _silence(tail, sr)
+        yield mix(chunk)
+    yield mix(_silence(tail, sr))
 
 
 def render_mp3(text: str | list[str], timing: Timing, out_path: str, *, sr: int = 32000,
                bitrate: str = "32k", freq: float = 600.0, tags: dict | None = None,
-               cover: str | None = None, marks: list | None = None) -> float:
+               cover: str | None = None, marks: list | None = None,
+               noise_dbfs: float | None = None) -> float:
     """Encode the transmission to MP3. Returns duration in seconds; fills `marks` (see render_pcm)."""
     cmd = ["ffmpeg", "-hide_banner", "-loglevel", "error", "-y",
            "-f", "s16le", "-ar", str(sr), "-ac", "1", "-i", "-"]
@@ -183,7 +205,7 @@ def render_mp3(text: str | list[str], timing: Timing, out_path: str, *, sr: int 
     cmd.append(out_path)
     proc = subprocess.Popen(cmd, stdin=subprocess.PIPE)
     samples = 0
-    for chunk in render_pcm(text, timing, sr=sr, freq=freq, marks=marks):
+    for chunk in render_pcm(text, timing, sr=sr, freq=freq, marks=marks, noise_dbfs=noise_dbfs):
         samples += len(chunk)
         proc.stdin.write(chunk.tobytes())
     proc.stdin.close()
