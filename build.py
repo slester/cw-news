@@ -25,7 +25,7 @@ import morse
 
 ROOT = Path(__file__).resolve().parent
 MONTHS = "JAN FEB MAR APR MAY JUN JUL AUG SEP OCT NOV DEC".split()
-AUDIO_KEYS = ("tone_hz", "sample_rate", "bitrate", "noise_floor_dbfs")
+AUDIO_KEYS = ("tone_hz", "sample_rate", "bitrate", "floor_dc_lsb")
 
 
 def load_json(path: Path, default=None):
@@ -257,7 +257,7 @@ def main() -> int:
                 marks = []
                 duration = morse.render_mp3(
                     lines, timing, str(out), marks=marks, sr=cfg["sample_rate"], bitrate=cfg["bitrate"],
-                    freq=cfg["tone_hz"], noise_dbfs=cfg.get("noise_floor_dbfs"),
+                    freq=cfg["tone_hz"], floor_dc=cfg.get("floor_dc_lsb"),
                     cover=str(ROOT / "art" / f"{slug(sp)}-600.jpg"),
                     tags={"title": f"{d.day} {d.strftime('%b %Y')} · {sp['wpm']} WPM",
                           "artist": cfg["author"],

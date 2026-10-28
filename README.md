@@ -18,9 +18,9 @@ The day's top ten news stories, summarized and sent in Morse code. There are fiv
    stories in BBC's front-page order and writes `editions/YYYY-MM-DD.json`: one 15–25 word summary
    per story, in its own words and limited to characters Morse code can send.
 3. Claude runs `build.py`. The script renders each edition at the five speeds (600 Hz, 5 ms
-   raised-cosine keying, a -60 dBFS noise floor, 32 kbps mono MP3) and rewrites the five feeds.
-   The noise floor is there because the Apple Podcasts app clicks whenever the audio drops to
-   exact digital silence, which plain CW does between every element. It also prunes audio older
+   raised-cosine keying, a 16 LSB DC offset, 32 kbps mono MP3) and rewrites the five feeds.
+   The inaudible DC offset is there because the Apple Podcasts app clicks whenever the audio
+   drops to exact digital silence, which plain CW does between every element. It also prunes audio older
    than 14 days.
 4. The site goes to the `gh-pages` branch as a single fresh commit each day, so the repo doesn't grow.
    GitHub Pages serves it, and podcast apps pick up the new episodes.
@@ -39,7 +39,7 @@ The episode notes show exactly what is sent, one line per story with the time it
 - `build.py`: turns editions into MP3s, feeds and the landing page (`--check` only validates)
 - `art.py`: generates the covers in `art/` (3000 px for Apple, 600 px embedded in the MP3s)
 - `tools/decode_check.py`: decodes a rendered MP3 back to text and measures dits and gaps
-- `config.json`: show title, author, speeds, tone, noise floor, retention. Changing any audio
+- `config.json`: show title, author, speeds, tone, DC offset, retention. Changing any audio
   setting re-renders the retained episodes on the next build. Set `owner_email` if you want a
   contact email in the feeds (it is public).
 

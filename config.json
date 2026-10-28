@@ -11,7 +11,7 @@
   "tone_hz": 600,
   "sample_rate": 32000,
   "bitrate": "32k",
-  "noise_floor_dbfs": -60,
+  "floor_dc_lsb": 16,
   "speeds": [
     {"wpm": 10, "farnsworth_char_wpm": 20},
     {"wpm": 15, "farnsworth_char_wpm": 20},
