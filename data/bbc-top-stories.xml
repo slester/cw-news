@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 30 Oct 2026 10:22:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Oct 2026 10:48:59 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -49,20 +49,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28c1/live/ef0fd130-d441-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens]]></title>
+            <description><![CDATA[Several hundred people are understood to have decided to stay in the frontline town, despite the lack of gas, electricity and running water.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c60me298k1yeo#1</guid>
+            <pubDate>Fri, 30 Oct 2026 10:32:06 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16ad/live/b69284c0-d44a-11f1-a701-fddedf244c16.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Bombshell confession in The Traitors as faithfuls finally turn the screw ]]></title>
             <description><![CDATA[Could the faithfuls finally come good in Thursday's penultimate episode?]]></description>
             <link>https://www.bbc.co.uk/news/articles/ckr5y12r081zo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckr5y12r081zo#1</guid>
             <pubDate>Fri, 30 Oct 2026 00:16:59 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b92d/live/69d85f50-d3e7-11f1-8aed-e5579b6f5a98.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Democrats in the US are united against Trump - but divided on their future]]></title>
-            <description><![CDATA[Whatever the result of the midterm elections, the party is facing tough questions over what they stand for and who should represent them.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cknv08980d3vo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cknv08980d3vo#1</guid>
-            <pubDate>Fri, 30 Oct 2026 02:14:41 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42df/live/bd536810-d3b4-11f1-b441-2b33b063138f.jpg"/>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/764a/live/19b3a550-d44d-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
             <title><![CDATA['I made the wrong decision,' Hyrox athlete who soiled herself in race tells BBC]]></title>
@@ -73,14 +73,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c240/live/2b6f2c10-d434-11f1-b610-e9c472d2c97b.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Syrians struggle with soaring prices as crisis challenges post-Assad recovery]]></title>
-            <description><![CDATA[End of subsidies and rising prices drive discontent, testing support for Ahmed al-Sharaa's government.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cmn4egvez1yzo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmn4egvez1yzo#1</guid>
-            <pubDate>Fri, 30 Oct 2026 06:02:23 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/329d/live/be5913a0-d435-11f1-93e1-3b657b665bcf.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Google value plunges by $500bn as AI search hits ad sales]]></title>
             <description><![CDATA[Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI search summaries were affecting ad revenue.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -89,12 +81,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3304/live/1c4d6e00-d3d4-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Watch: What leaked audio reveals about Spain train crash]]></title>
-            <description><![CDATA[Recordings between a control centre and the train drivers appear to show one train was given clearance to move even though another train had stalled on the track.]]></description>
-            <link>https://www.bbc.co.uk/news/videos/c6vgjeg0myzgo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/c6vgjeg0myzgo#1</guid>
-            <pubDate>Thu, 29 Oct 2026 20:50:25 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d46f/live/7d9cd370-d3e4-11f1-9caf-3b69fd8bbd8b.jpg"/>
+            <title><![CDATA[Syrians struggle with soaring prices as crisis challenges post-Assad recovery]]></title>
+            <description><![CDATA[End of subsidies and rising prices drive discontent, testing support for Ahmed al-Sharaa's government.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cmn4egvez1yzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmn4egvez1yzo#1</guid>
+            <pubDate>Fri, 30 Oct 2026 06:02:23 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/329d/live/be5913a0-d435-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
             <title><![CDATA[Yorkshire Water boss resigns after firm downgraded]]></title>
@@ -103,6 +95,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckzd623pldqgo#1</guid>
             <pubDate>Fri, 30 Oct 2026 07:54:08 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b90/live/5715cb30-d434-11f1-b610-e9c472d2c97b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Biggest fibre boost could be scraps in your bin, experts say]]></title>
+            <description><![CDATA[Chomping on vegtable skins, seeds and stalks could give us vital fibre, say food scientists.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cw5ynver15jeo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cw5ynver15jeo#1</guid>
+            <pubDate>Fri, 30 Oct 2026 00:40:30 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff14/live/c93d0290-d435-11f1-9ba3-e16b46d57ce6.jpg"/>
         </item>
         <item>
             <title><![CDATA[From watching Star Trek to knighthood - Sir Patrick Stewart on the BBC]]></title>
@@ -118,7 +118,7 @@
             <link>https://www.bbc.co.uk/news/articles/cye0l23lx15o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cye0l23lx15o#2</guid>
             <pubDate>Fri, 30 Oct 2026 03:57:06 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43ea/live/afe085e0-d42d-11f1-a701-fddedf244c16.jpg"/>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/adb5/live/d10f2630-d44c-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
             <title><![CDATA[A life in pictures]]></title>
@@ -127,6 +127,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cj1dw9dynn2xo#2</guid>
             <pubDate>Fri, 30 Oct 2026 03:54:39 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85f7/live/793dcad0-d3ff-11f1-b497-e5f21e10c3e0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Democrats in the US are united against Trump - but divided on their future]]></title>
+            <description><![CDATA[Whatever the result of the midterm elections, the party is facing tough questions over what they stand for and who should represent them.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cknv08980d3vo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cknv08980d3vo#3</guid>
+            <pubDate>Fri, 30 Oct 2026 02:14:41 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42df/live/bd536810-d3b4-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
             <title><![CDATA[We went on holiday with our neighbours and swapped families - it tore us apart ]]></title>
@@ -177,20 +185,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f93/live/75a32910-c9a5-11f1-ad54-aba20166b422.jpg"/>
         </item>
         <item>
-            <title><![CDATA[The Papers: 'No welfare cuts before election' and 'Police probe Epstein's Balmoral stay']]></title>
-            <description><![CDATA[Healey's budget fallout and fresh police probe into Epstein's stay at Balmoral with ex-Prince Andrew lead Friday's papers.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c6kg5p2l5d2jo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6kg5p2l5d2jo#3</guid>
-            <pubDate>Fri, 30 Oct 2026 05:50:05 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36dd/live/770e4800-d3fc-11f1-93e1-3b657b665bcf.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Biggest fibre boost could be scraps in your bin, experts say]]></title>
-            <description><![CDATA[Chomping on vegtable skins, seeds and stalks could give us vital fibre, say food scientists.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cw5ynver15jeo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cw5ynver15jeo#5</guid>
-            <pubDate>Fri, 30 Oct 2026 00:40:30 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff14/live/c93d0290-d435-11f1-9ba3-e16b46d57ce6.jpg"/>
+            <title><![CDATA[Watch: What leaked audio reveals about Spain train crash]]></title>
+            <description><![CDATA[Recordings between a control centre and the train drivers appear to show one train was given clearance to move even though another train had stalled on the track.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/c6vgjeg0myzgo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/c6vgjeg0myzgo#5</guid>
+            <pubDate>Thu, 29 Oct 2026 20:50:25 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d46f/live/7d9cd370-d3e4-11f1-9caf-3b69fd8bbd8b.jpg"/>
         </item>
         <item>
             <title><![CDATA[Student-backed election winners demand sweeping resignations in Serbia]]></title>
@@ -199,30 +199,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmx2dwzp0z0vo#5</guid>
             <pubDate>Fri, 30 Oct 2026 00:17:28 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dec3/live/30285610-d42e-11f1-b441-2b33b063138f.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Watch: Australia's mushroom murderer loses appeal and may now die in prison]]></title>
-            <description><![CDATA[Judges agreed with the prosecution’s appeal that Erin Patterson’s initial non-parole period of 33 years was insufficient.]]></description>
-            <link>https://www.bbc.co.uk/news/videos/cmlykpd9kpy7o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cmlykpd9kpy7o#5</guid>
-            <pubDate>Fri, 30 Oct 2026 01:38:54 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e86c/live/220a00a0-d402-11f1-93e1-3b657b665bcf.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['I run a spotless kitchen', says Michelin-star restaurant chef in wake of food hygiene debacle]]></title>
-            <description><![CDATA[Chef Gareth Ward defends how he operates in documentary after Ynyshir got a one-star hygiene rating.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cqp8g19r66y4o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqp8g19r66y4o#5</guid>
-            <pubDate>Fri, 30 Oct 2026 06:08:16 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7e9/live/7ce4e4d0-d386-11f1-a701-fddedf244c16.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DUP leader 'hopes' Carla Lockhart will not leave party]]></title>
-            <description><![CDATA[Lockhart has previously said Michelle O'Neill "must go" as first minister following the Drumcree parade dispute.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cm20w2xlj2y4o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm20w2xlj2y4o#5</guid>
-            <pubDate>Fri, 30 Oct 2026 09:38:08 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c886/live/cfa8c4f0-d437-11f1-9ba3-e16b46d57ce6.jpg"/>
         </item>
         <item>
             <title><![CDATA[Attenborough-backed appeal secures £30m estate]]></title>
@@ -239,6 +215,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6vg03xl0751o#5</guid>
             <pubDate>Fri, 30 Oct 2026 06:17:09 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8156/live/1a3de4e0-b00e-11f0-b2a1-6f537f66f9aa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I run a spotless kitchen', says Michelin-star restaurant chef in wake of food hygiene debacle]]></title>
+            <description><![CDATA[Chef Gareth Ward defends how he operates in documentary after Ynyshir got a one-star hygiene rating.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cqp8g19r66y4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqp8g19r66y4o#5</guid>
+            <pubDate>Fri, 30 Oct 2026 06:08:16 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7e9/live/7ce4e4d0-d386-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
             <title><![CDATA[Download now]]></title>
