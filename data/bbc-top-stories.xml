@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Nov 2026 10:44:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Nov 2026 11:12:20 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -19,8 +19,16 @@
             <description><![CDATA[The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqj34gnd3n30o#1</guid>
-            <pubDate>Sun, 01 Nov 2026 08:43:00 GMT</pubDate>
+            <pubDate>Sun, 01 Nov 2026 11:03:36 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ace/live/3e4ef120-d5d4-11f1-8629-7b9503d639be.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Healey risks breaking minimum wage promise for younger workers]]></title>
+            <description><![CDATA[The Chancellor has suggested that younger workers might not receive the same minimum wage as others before the next election.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cv369266644lo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cv369266644lo#1</guid>
+            <pubDate>Sun, 01 Nov 2026 11:05:40 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca26/live/ddbc05b0-d546-11f1-b69a-cfba30d5f3d4.jpg"/>
         </item>
         <item>
             <title><![CDATA[Democrats are used to heartbreak in Texas - could Talarico turn the tide?]]></title>
@@ -35,7 +43,7 @@
             <description><![CDATA[In her first major intervention since leaving the Treasury, Rachel Reeves says Brexit has made the UK "poorer, weaker and less secure".]]></description>
             <link>https://www.bbc.co.uk/news/articles/c62l4yz0eexpo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c62l4yz0eexpo#1</guid>
-            <pubDate>Sun, 01 Nov 2026 02:57:34 GMT</pubDate>
+            <pubDate>Sun, 01 Nov 2026 10:47:03 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf5e/live/f417cd40-d595-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
@@ -79,14 +87,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02cf/live/411e4740-d433-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
-            <title><![CDATA[How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán]]></title>
-            <description><![CDATA[Defeat for Serbia's Aleksandar Vučiċ in last weekend's vote was a carbon copy of Viktor Orbán's fall in Hungary. ]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c893z699q401o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c893z699q401o#2</guid>
-            <pubDate>Sun, 01 Nov 2026 00:55:06 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b724/live/db1d9120-d456-11f1-906a-add2117fe3e6.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[From Maya as Sir Mo Farah to Heidi as her own left hand: The best Halloween looks]]></title>
             <description><![CDATA[Celebrities have been embracing the scariest day of the year by dressing up as sport stars, dismembered limbs and unsold concert tickets.]]></description>
             <link>https://www.bbc.co.uk/news/articles/ck1exyj525d9o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -95,11 +95,27 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/946c/live/79b0d500-d5cd-11f1-82ae-81055b9ae1cd.jpg"/>
         </item>
         <item>
+            <title><![CDATA[How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán]]></title>
+            <description><![CDATA[Defeat for Serbia's Aleksandar Vučiċ in last weekend's vote was a carbon copy of Viktor Orbán's fall in Hungary. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c893z699q401o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c893z699q401o#2</guid>
+            <pubDate>Sun, 01 Nov 2026 00:55:06 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b724/live/db1d9120-d456-11f1-906a-add2117fe3e6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Northern Lights dance across UK sky on Halloween night]]></title>
+            <description><![CDATA[Stargazers across the UK were treated to the vivid colours of the aurora borealis on Saturday night.]]></description>
+            <link>https://www.bbc.co.uk/weather/articles/c3pwge119lnvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/weather/articles/c3pwge119lnvo#2</guid>
+            <pubDate>Sun, 01 Nov 2026 10:16:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69f4/live/7886c200-d5cf-11f1-82ae-81055b9ae1cd.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Irish Olympic runner Ciara Mageean dies aged 34]]></title>
-            <description><![CDATA[Portaferry runner Ciara Mageean, who won a European title and twice represented Ireland at the Olympics, dies aged 34.]]></description>
+            <description><![CDATA[Ciara Mageean, who won a European title and twice represented Ireland at the Olympics, dies aged 34.]]></description>
             <link>https://www.bbc.co.uk/sport/athletics/articles/cn81px29032o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/athletics/articles/cn81px29032o#3</guid>
-            <pubDate>Sun, 01 Nov 2026 10:07:07 GMT</pubDate>
+            <pubDate>Sun, 01 Nov 2026 10:45:42 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f48f/live/df92a5c0-d5db-11f1-a25d-8f13519027da.jpg"/>
         </item>
         <item>
@@ -111,14 +127,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14f2/live/13953cb0-d137-11f1-be77-d1864d279cb0.png"/>
         </item>
         <item>
-            <title><![CDATA[Watch: Emotional reunions for Oleshky evacuees after years in Russia-occupied city]]></title>
-            <description><![CDATA[The BBC's Dan Johnson travelled to the northern Ukrainian border with Belarus after evacuated Oleshky residents  arrived in buses and ambulances following a temporary ceasefire.]]></description>
-            <link>https://www.bbc.co.uk/news/videos/cmy83w0jwznpo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cmy83w0jwznpo#3</guid>
-            <pubDate>Sat, 31 Oct 2026 16:55:47 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f47/live/8e8b6090-d568-11f1-910b-9bd7c745c627.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[These firms you've never heard of are feeding fears the AI bubble could burst]]></title>
             <description><![CDATA[The amount of debt held by data centres is measured in the tens of billions of pounds.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -127,12 +135,12 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16f5/live/d2c08770-d493-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book]]></title>
-            <description><![CDATA[Trump had sued the media outlet after it published a letter to Epstein purportedly written and signed by the president as part of a birthday book.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo#3</guid>
-            <pubDate>Sun, 01 Nov 2026 00:41:24 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cde/live/f5e426a0-d586-11f1-a6a4-9b195a139571.jpg"/>
+            <title><![CDATA[King to address slavery during Commonwealth speech in Antigua on final leg of Caribbean tour]]></title>
+            <description><![CDATA[King Charles III will deliver a speech to the Commonwealth Heads of Government Meeting on Tuesday as he concludes his nine-day Caribbean tour. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cq398y0zj9rpo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq398y0zj9rpo#3</guid>
+            <pubDate>Sat, 31 Oct 2026 22:56:15 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a11/live/9a9071c0-d57a-11f1-be5a-4bb1a466c469.jpg"/>
         </item>
         <item>
             <title><![CDATA[Second night of drone disruption at Jersey Airport]]></title>
@@ -143,12 +151,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1efa/live/218efa90-d57e-11f1-ab63-077ce6c8a12a.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Thick fog to create hazardous driving conditions into next week]]></title>
-            <description><![CDATA[England and Wales are most likely to experience the foggy conditions on Sunday, before the threat shifts northwards into next week. ]]></description>
-            <link>https://www.bbc.co.uk/weather/articles/c3n04pl19zzqo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/weather/articles/c3n04pl19zzqo#3</guid>
-            <pubDate>Sun, 01 Nov 2026 06:51:06 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2451/live/fa7eb240-d516-11f1-a701-fddedf244c16.jpg"/>
+            <title><![CDATA[India's opposition holds mega rally seeking election chief's resignation]]></title>
+            <description><![CDATA[It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c60qk92dvlwgo#3</guid>
+            <pubDate>Sun, 01 Nov 2026 07:00:55 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab52/live/e490a850-d5d2-11f1-8629-7b9503d639be.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book]]></title>
+            <description><![CDATA[Trump had sued the media outlet after it published a letter to Epstein purportedly written and signed by the president as part of a birthday book.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo#3</guid>
+            <pubDate>Sun, 01 Nov 2026 00:41:24 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cde/live/f5e426a0-d586-11f1-a6a4-9b195a139571.jpg"/>
         </item>
         <item>
             <title><![CDATA['The necktie is dead': How candidates are dressing for votes]]></title>
@@ -239,6 +255,14 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d5c/live/b3329da0-d45a-11f1-93d9-89af68edb68a.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Former European champion and two-time Olympian Mageean dies aged 34]]></title>
+            <description><![CDATA[Ciara Mageean, who won a European title and twice represented Ireland at the Olympics, dies aged 34.]]></description>
+            <link>https://www.bbc.co.uk/sport/athletics/articles/cn81px29032o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/athletics/articles/cn81px29032o#10</guid>
+            <pubDate>Sun, 01 Nov 2026 10:45:42 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f48f/live/df92a5c0-d5db-11f1-a25d-8f13519027da.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[On 'tense' Antonelli's big weekend, this was Hamilton's day]]></title>
             <description><![CDATA[As Kimi Antonelli bids to become F1's youngest world champion, veteran Lewis Hamilton rolled back the years to take his first Ferrari pole.]]></description>
             <link>https://www.bbc.co.uk/sport/formula1/articles/cje36e0gze4ko?at_medium=RSS&amp;at_campaign=rss</link>
@@ -261,14 +285,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/articles/cm1j3yd6994yo#10</guid>
             <pubDate>Sun, 01 Nov 2026 06:29:50 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5afe/live/b29d1e10-d54f-11f1-93e1-3b657b665bcf.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Wales hit by Australia century in World Cup record defeat]]></title>
-            <description><![CDATA[Wales women concede 21 tries in Sydney as defending Rugby League World Cup champions Australia rewrite the international record books.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-league/articles/cked34glxp0no?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-league/articles/cked34glxp0no#10</guid>
-            <pubDate>Sun, 01 Nov 2026 06:57:05 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbef/live/0e215400-d5b8-11f1-a012-e5d60a7e6c41.jpg"/>
         </item>
         <item>
             <title><![CDATA[Chelsea beat 10-man Man Utd to pile more pressure on Carrick]]></title>
