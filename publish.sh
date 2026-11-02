@@ -32,11 +32,22 @@ git "${GIT_ID[@]}" commit -q -m "Edition $DATE"
 git push -q --force origin publish:gh-pages
 
 # 4. Record the edition on main.
+#    Push HEAD rather than the local "main" branch: a pre-provisioned checkout can be a
+#    detached HEAD whose local "main" is stale, and pushing that stale branch is rejected.
 cd "$REPO_DIR"
 git add "editions/$DATE.json"
 git "${GIT_ID[@]}" commit -q -m "Edition $DATE" || true
+pushed=
 for i in 1 2 3; do
-  git pull -q --rebase origin main && git push -q origin main && break
+  if git "${GIT_ID[@]}" pull -q --rebase origin main && git push -q origin HEAD:main; then
+    pushed=1; break
+  fi
   sleep 5
 done
+if [ -z "$pushed" ]; then
+  echo "site published, but pushing editions/$DATE.json to main failed 3 times" >&2
+  exit 1
+fi
+# Keep the local main branch in step with what was pushed.
+[ "$(git symbolic-ref -q --short HEAD || true)" = main ] || git branch -f main HEAD
 echo "published $DATE"
