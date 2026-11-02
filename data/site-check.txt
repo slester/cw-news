@@ -1,6 +1,6 @@
-PASS 2026-11-01T05:40:36Z
-OK   10wpm: 7 episodes, newest 1 Nov 2026 · 10 WPM, range 206, art 200
-OK   15wpm: 7 episodes, newest 1 Nov 2026 · 15 WPM, range 206, art 200
-OK   20wpm: 7 episodes, newest 1 Nov 2026 · 20 WPM, range 206, art 200
-OK   25wpm: 7 episodes, newest 1 Nov 2026 · 25 WPM, range 206, art 200
-OK   30wpm: 7 episodes, newest 1 Nov 2026 · 30 WPM, range 206, art 200
+PASS 2026-11-02T05:41:22Z
+OK   10wpm: 8 episodes, newest 2 Nov 2026 · 10 WPM, range 206, art 200
+OK   15wpm: 8 episodes, newest 2 Nov 2026 · 15 WPM, range 206, art 200
+OK   20wpm: 8 episodes, newest 2 Nov 2026 · 20 WPM, range 206, art 200
+OK   25wpm: 8 episodes, newest 2 Nov 2026 · 25 WPM, range 206, art 200
+OK   30wpm: 8 episodes, newest 2 Nov 2026 · 30 WPM, range 206, art 200
