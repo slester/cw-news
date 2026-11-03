@@ -1,6 +1,6 @@
-PASS 2026-11-02T05:41:22Z
-OK   10wpm: 8 episodes, newest 2 Nov 2026 · 10 WPM, range 206, art 200
-OK   15wpm: 8 episodes, newest 2 Nov 2026 · 15 WPM, range 206, art 200
-OK   20wpm: 8 episodes, newest 2 Nov 2026 · 20 WPM, range 206, art 200
-OK   25wpm: 8 episodes, newest 2 Nov 2026 · 25 WPM, range 206, art 200
-OK   30wpm: 8 episodes, newest 2 Nov 2026 · 30 WPM, range 206, art 200
+FAIL 2026-11-03T05:41:05Z
+OK   10wpm: 9 episodes, newest 3 Nov 2026 · 10 WPM, range 206, art 200
+OK   15wpm: 9 episodes, newest 3 Nov 2026 · 15 WPM, range 206, art 200
+FAIL 20wpm: HTTP Error 503: Service Unavailable
+OK   25wpm: 9 episodes, newest 3 Nov 2026 · 25 WPM, range 206, art 200
+OK   30wpm: 9 episodes, newest 3 Nov 2026 · 30 WPM, range 206, art 200
