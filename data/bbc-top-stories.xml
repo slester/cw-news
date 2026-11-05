@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Nov 2026 11:23:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Nov 2026 12:10:28 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Three ways the interest rate rise could affect you]]></title>
+            <description><![CDATA[Job, loans and savings are all affected by the rise in interest rates announced by the Bank of England.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cx4g1q3vlp62o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cx4g1q3vlp62o#1</guid>
+            <pubDate>Thu, 05 Nov 2026 12:02:12 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6542/live/e7d0aa50-d902-11f1-9c68-d767468fa269.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Married at First Sight UK cancelled after BBC revealed rape allegations]]></title>
             <description><![CDATA[Three women made allegations about the men they were partnered with. Channel 4 has apologised and said the show's budget would be reinvested  in "distinctive new programming".]]></description>
@@ -35,8 +43,8 @@
             <description><![CDATA[Portugal legend Cristiano Ronaldo says he is retiring from international football.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o#1</guid>
-            <pubDate>Thu, 05 Nov 2026 11:17:03 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dee2/live/8500a0e0-d909-11f1-b72c-d16cdc75f35f.jpg"/>
+            <pubDate>Thu, 05 Nov 2026 11:56:02 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a945/live/90c224f0-d911-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
             <title><![CDATA[Drunk and dangerous e-bike riders face on-the-spot fines under crackdown]]></title>
@@ -47,14 +55,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bcfc/live/126e9360-d900-11f1-9c68-d767468fa269.jpg"/>
         </item>
         <item>
-            <title><![CDATA[France gears up for strikes and protests as unions promise national mobilisation]]></title>
-            <description><![CDATA[Five of France's unions have joined a wave of strikes and protests in a national day of action.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckx2qzv835pgo#1</guid>
-            <pubDate>Thu, 05 Nov 2026 10:26:03 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3334/live/45a99230-d909-11f1-b441-2b33b063138f.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Pound rises to its highest level since the Brexit referendum]]></title>
             <description><![CDATA[Pound reaches highest level against a basket of currencies since the Brexit referendum a decade ago.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -63,12 +63,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44a7/live/84e77df0-d8e5-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
-            <title><![CDATA[New £200m fleet of publicly funded trains in Wales barely used after three years]]></title>
-            <description><![CDATA[The final piece in a £2bn rail project is late, with less than half of the trains tested.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cv62kwg0k038o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cv62kwg0k038o#1</guid>
-            <pubDate>Thu, 05 Nov 2026 06:02:41 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2063/live/d22e3000-d858-11f1-94f3-cf7d1e52bb8c.png"/>
+            <title><![CDATA[The Pitt and ER are similar enough for lawsuit to proceed, judge rules]]></title>
+            <description><![CDATA[The widow of ER creator Michael Crichton argues The Pitt is effectively a reboot of the 1990s series.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cq4g1r42jx00o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq4g1r42jx00o#1</guid>
+            <pubDate>Thu, 05 Nov 2026 11:21:35 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a84/live/13273f90-d901-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
             <title><![CDATA[Watch: Was an Italian chef really fired over refusal to put pineapple on pizza?]]></title>
@@ -183,6 +183,30 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1cf9/live/b4ad07b0-d883-11f1-a364-a1fce50dd192.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Kenyan pharmacists warn against viral craze of using allergy drug for vaginal tightening]]></title>
+            <description><![CDATA[Women who have already tried inserting the tablets are advised to stop and seek medical attention if needed.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cm1dwl13zge7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm1dwl13zge7o#5</guid>
+            <pubDate>Thu, 05 Nov 2026 11:23:22 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f45/live/3ce96da0-d909-11f1-b72c-d16cdc75f35f.png"/>
+        </item>
+        <item>
+            <title><![CDATA[France gears up for strikes and protests as unions promise national mobilisation]]></title>
+            <description><![CDATA[Five of France's unions have joined a wave of strikes and protests in a national day of action.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckx2qzv835pgo#5</guid>
+            <pubDate>Thu, 05 Nov 2026 10:26:03 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3334/live/45a99230-d909-11f1-b441-2b33b063138f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[New £200m fleet of publicly funded trains in Wales barely used after three years]]></title>
+            <description><![CDATA[The final piece in a £2bn rail project is late, with less than half of the trains tested.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cv62kwg0k038o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cv62kwg0k038o#5</guid>
+            <pubDate>Thu, 05 Nov 2026 06:02:41 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2063/live/d22e3000-d858-11f1-94f3-cf7d1e52bb8c.png"/>
+        </item>
+        <item>
             <title><![CDATA[Parliament faces 'grave risks' as more asbestos discovered ahead of revamp decision]]></title>
             <description><![CDATA[MPs told it's crunch time for a decision on refurbishment amid warnings of a Notre Dame-style fire. ]]></description>
             <link>https://www.bbc.co.uk/news/articles/cqly0k8l5mdvo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -191,36 +215,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40af/live/3897ab80-d860-11f1-94f3-cf7d1e52bb8c.png"/>
         </item>
         <item>
-            <title><![CDATA[England captain Harry Kane signs new Bayern deal]]></title>
-            <description><![CDATA[England captain Harry Kane signs a new deal with Bayern Munich that runs until 2029.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cmjweqpv8vj1o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmjweqpv8vj1o#5</guid>
-            <pubDate>Thu, 05 Nov 2026 08:39:18 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca43/live/85f91730-d8f4-11f1-a701-fddedf244c16.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Investigation after 'hundreds' of letters found dumped ]]></title>
-            <description><![CDATA[Royal Mail is trying to find out how large quantities of mail ended up being discarded on the outskirts of Derry.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/crgj9qee2dw5o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crgj9qee2dw5o#5</guid>
-            <pubDate>Thu, 05 Nov 2026 10:45:07 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6135/live/6f160ab0-d907-11f1-b72c-d16cdc75f35f.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Second buyer makes rescue bid for Poundland as retailer faces collapse]]></title>
             <description><![CDATA[A little-known investment group has made a bid to buy the business.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c6lykq0kqwn7o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6lykq0kqwn7o#5</guid>
             <pubDate>Thu, 05 Nov 2026 09:46:32 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99f8/live/fbd28350-d904-11f1-a701-fddedf244c16.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[No shoot-to-kill missions against IRA, says former SAS officer]]></title>
-            <description><![CDATA[The soldier is speaking out now because of the government's draft law to deal with the legacy of the Troubles.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cky93zxx3l4eo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cky93zxx3l4eo#5</guid>
-            <pubDate>Thu, 05 Nov 2026 10:25:30 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d31/live/c4e47160-d868-11f1-85ab-b3cc3b5498c6.jpg"/>
         </item>
         <item>
             <title><![CDATA[Download now]]></title>
@@ -243,8 +243,16 @@
             <description><![CDATA[Portugal legend Cristiano Ronaldo says he is retiring from international football.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o#9</guid>
-            <pubDate>Thu, 05 Nov 2026 11:17:03 GMT</pubDate>
+            <pubDate>Thu, 05 Nov 2026 11:56:02 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dee2/live/8500a0e0-d909-11f1-b72c-d16cdc75f35f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ronaldo's most iconic moments as he retires from international football]]></title>
+            <description><![CDATA[BBC Sport looks at some of the most iconic moments from the career of Cristiano Ronaldo as he retires from international football.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cew197l8l17o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cew197l8l17o#9</guid>
+            <pubDate>Thu, 05 Nov 2026 11:22:59 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ba6/live/a3e114a0-8c89-11ef-8537-35d6ce5671fe.jpg"/>
         </item>
         <item>
             <title><![CDATA[Former F1 champion Jones dies aged 80]]></title>
@@ -269,14 +277,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/golf/articles/cq70pdjjgy5no#9</guid>
             <pubDate>Thu, 05 Nov 2026 07:45:02 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/241b/live/33625a90-d890-11f1-a701-fddedf244c16.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[World record 53 red cards shown in Brazilian youth game]]></title>
-            <description><![CDATA[A world record of 43 players, eight members of staff and two board members were sent off during an under-20 championship match between Uberlandia and Mamore in Brazil. ]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cmy0rz7741ywo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmy0rz7741ywo#9</guid>
-            <pubDate>Thu, 05 Nov 2026 07:23:08 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ba3/live/0108aa50-d8a3-11f1-9765-23c244b34f98.png"/>
         </item>
         <item>
             <title><![CDATA[Wales opt for centre power pair against Japan ]]></title>
