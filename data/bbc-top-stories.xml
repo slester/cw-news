@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Nov 2026 11:22:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Nov 2026 11:59:08 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Met Police boss 'wouldn't be surprised' if more allegations made about Brand]]></title>
+            <description><![CDATA[Sir Mark Rowley also said what he heard reported from Brand's trial came close to "victim blaming".]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cmly00r44jgvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmly00r44jgvo#1</guid>
+            <pubDate>Fri, 06 Nov 2026 11:01:58 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cc3/live/52586f50-d9c8-11f1-bb8e-efaa31738708.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Did a data centre revolt affect the US midterm election results?]]></title>
             <description><![CDATA[BBC Verify examines whether US voters were influenced by the data centre boom - and the impact anti-AI sentiment could have on the industry.]]></description>
@@ -21,14 +29,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crvg9yyz5437o#1</guid>
             <pubDate>Fri, 06 Nov 2026 06:01:13 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c66b/live/909d6da0-d90b-11f1-b72c-d16cdc75f35f.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Met chief warns policing 'heading for failure' without reform]]></title>
-            <description><![CDATA[Sir Mark Rowley will argue that the current system is unable to cope with the sophistication of modern criminals.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cvglww2r307ko?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cvglww2r307ko#1</guid>
-            <pubDate>Fri, 06 Nov 2026 10:19:19 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccfe/live/66892280-d9b4-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
             <title><![CDATA['Misleading' student loans information left out examples of higher-salary repayments]]></title>
@@ -47,12 +47,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bed/live/83d1f9f0-d9cf-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Thatcher's Right to Buy created a generation of homeowners - did it also fuel the housing crisis?]]></title>
-            <description><![CDATA[Labour is weakening Margaret Thatcher's landmark housing policy. Will it really fix Britain's social housing woes?]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c699zde85xn7o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c699zde85xn7o#1</guid>
-            <pubDate>Fri, 06 Nov 2026 00:09:56 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71bf/live/e1a42f80-d92f-11f1-b441-2b33b063138f.jpg"/>
+            <title><![CDATA[Tube drivers to stage strikes in Christmas run-up]]></title>
+            <description><![CDATA[The union is in dispute with London Underground over working arrangements for drivers.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ck7vpplgvrjqo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck7vpplgvrjqo#1</guid>
+            <pubDate>Fri, 06 Nov 2026 11:41:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/862c/live/d5f94a00-d9d2-11f1-9e5a-c30c5e3d8c85.jpg"/>
         </item>
         <item>
             <title><![CDATA[Could the earliest weakening of the polar vortex on record bring UK snow?]]></title>
@@ -63,20 +63,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/107a/live/0dde0950-d9b1-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Met Police boss 'wouldn't be surprised' if more allegations made about Brand]]></title>
-            <description><![CDATA[Sir Mark Rowley also said what he heard reported from Brand's trial came close to "victim blaming".]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cmly00r44jgvo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmly00r44jgvo#1</guid>
-            <pubDate>Fri, 06 Nov 2026 11:01:58 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cc3/live/52586f50-d9c8-11f1-bb8e-efaa31738708.jpg"/>
+            <title><![CDATA[Two Gloucester schools in lockdown after boy hurt in incident]]></title>
+            <description><![CDATA[Armed police are on the scene in Tuffley - police say pupils are safe within school grounds.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6ly3343yj5po?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6ly3343yj5po#1</guid>
+            <pubDate>Fri, 06 Nov 2026 11:53:44 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d01/live/5da01630-d9d5-11f1-9e5a-c30c5e3d8c85.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Two boys charged over Halloween party stabbings]]></title>
-            <description><![CDATA[Five boys who were guests at the supervised Halloween party on Saturday night were stabbed.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c8qlnx4x349zo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c8qlnx4x349zo#1</guid>
-            <pubDate>Fri, 06 Nov 2026 09:40:28 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f917/live/19a7c8d0-d90b-11f1-b72c-d16cdc75f35f.jpg"/>
+            <title><![CDATA[Thatcher's Right to Buy created a generation of homeowners - did it also fuel the housing crisis?]]></title>
+            <description><![CDATA[Labour is weakening Margaret Thatcher's landmark housing policy. Will it really fix Britain's social housing woes?]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c699zde85xn7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c699zde85xn7o#1</guid>
+            <pubDate>Fri, 06 Nov 2026 00:09:56 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71bf/live/e1a42f80-d92f-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
             <title><![CDATA[Trump signs order to preserve Oval Office as national monument]]></title>
@@ -159,20 +159,28 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/997f/live/c2996b20-4a78-11ef-a0d4-af0fa324f0f6.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Tube drivers stage strikes in Christmas run-up]]></title>
-            <description><![CDATA[The union is in dispute with London Underground over working arrangements for drivers.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/ck7vpplgvrjqo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck7vpplgvrjqo#4</guid>
-            <pubDate>Fri, 06 Nov 2026 11:16:09 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/862c/live/d5f94a00-d9d2-11f1-9e5a-c30c5e3d8c85.jpg"/>
+            <title><![CDATA[Met chief warns policing 'heading for failure' without reform]]></title>
+            <description><![CDATA[Sir Mark Rowley will argue that the current system is unable to cope with the sophistication of modern criminals.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cvglww2r307ko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cvglww2r307ko#4</guid>
+            <pubDate>Fri, 06 Nov 2026 11:51:02 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccfe/live/66892280-d9b4-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Home Office investigating after BBC catches lawyer offering to make fines go away]]></title>
-            <description><![CDATA[The Home Office said it will be investigating the allegations to see whether there has been a breach of immigration rules.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c6vgjygzwdz7o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6vgjygzwdz7o#4</guid>
-            <pubDate>Fri, 06 Nov 2026 05:53:15 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29d7/live/52d2c7e0-d9a6-11f1-b441-2b33b063138f.jpg"/>
+            <title><![CDATA[Two boys charged over Halloween party stabbings]]></title>
+            <description><![CDATA[Five boys who were guests at the supervised Halloween party on Saturday night were stabbed.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c8qlnx4x349zo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c8qlnx4x349zo#4</guid>
+            <pubDate>Fri, 06 Nov 2026 09:40:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f917/live/19a7c8d0-d90b-11f1-b72c-d16cdc75f35f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Childminder who left more than 20 children alone in her home jailed]]></title>
+            <description><![CDATA[Amanda Mathewson admitted neglecting the chldren by abandoning them at her home in 2024.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c8qlnne7x9y1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c8qlnne7x9y1o#4</guid>
+            <pubDate>Fri, 06 Nov 2026 11:40:43 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eed3/live/61fd6060-d9d6-11f1-9e5a-c30c5e3d8c85.jpg"/>
         </item>
         <item>
             <title><![CDATA[Elon Musk appears to signal the end of the road for Cybertruck]]></title>
@@ -183,12 +191,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1994/live/ff7af2d0-d9bd-11f1-a00c-673f8daaffd9.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Police officers reunite with baby they helped deliver in back of car]]></title>
-            <description><![CDATA[Two police officers who were first on the scene as a woman gave birth in a car have been reunited with the baby they helped care for.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cqzjxzrez12jo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqzjxzrez12jo#4</guid>
-            <pubDate>Fri, 06 Nov 2026 00:04:24 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1de/live/31572530-d928-11f1-93e1-3b657b665bcf.jpg"/>
+            <title><![CDATA[Home Office investigating after BBC catches lawyer offering to make fines go away]]></title>
+            <description><![CDATA[The Home Office said it will be investigating the allegations to see whether there has been a breach of immigration rules.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6vgjygzwdz7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6vgjygzwdz7o#4</guid>
+            <pubDate>Fri, 06 Nov 2026 05:53:15 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29d7/live/52d2c7e0-d9a6-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
             <title><![CDATA[Two dead after bus crashes in France, officials say]]></title>
@@ -197,14 +205,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmly00l4p3lwo#4</guid>
             <pubDate>Fri, 06 Nov 2026 11:21:20 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5740/live/92c81290-d9cb-11f1-bb8e-efaa31738708.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Andrew received up to £2,000 per month from sub-letting, watchdog reports]]></title>
-            <description><![CDATA[The income went to the former prince rather than his landlord the Crown Estate.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c6m2d7vpd0meo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6m2d7vpd0meo#4</guid>
-            <pubDate>Fri, 06 Nov 2026 00:39:18 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63b8/live/57b68600-01a4-11f1-a8b8-bdd2c5f9bcad.jpg"/>
         </item>
         <item>
             <title><![CDATA[Download now]]></title>
@@ -223,20 +223,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg"/>
         </item>
         <item>
-            <title><![CDATA[A bitter end for Ronaldo - the icon who transformed Portugal]]></title>
-            <description><![CDATA[As Cristiano Ronaldo retires from international football, Guillem Balague looks at why and what is next for the Portugal legend. ]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo#8</guid>
-            <pubDate>Thu, 05 Nov 2026 14:29:40 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cf5/live/dfdded40-d915-11f1-a81d-35e942472442.jpg"/>
+            <title><![CDATA[Newcastle's Dedic stopped by police after being spotted with bow and arrows ]]></title>
+            <description><![CDATA[Newcastle United defender Amar Dedic is at the centre of a police investigation after being spotted carrying a bow and arrows at a Northumberland beauty spot.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cmpwggy2gz0eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmpwggy2gz0eo#8</guid>
+            <pubDate>Fri, 06 Nov 2026 11:16:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38e8/live/f9eca4e0-d9cb-11f1-bb8e-efaa31738708.png"/>
         </item>
         <item>
-            <title><![CDATA[Duran & Osmand spark Celtic into life - but where does that leave Hogh?]]></title>
-            <description><![CDATA[Martin O'Neill has previously said he is unsure of his best team, but it is now obvious that Camilo Duran is Celtic's best option through the middle.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cwd099ez7z4yo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwd099ez7z4yo#8</guid>
-            <pubDate>Fri, 06 Nov 2026 00:10:28 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3c2/live/2cdec430-d96f-11f1-9fd0-cdf612d1539f.jpg"/>
+            <title><![CDATA[McIlroy fires 63 to move into Abu Dhabi contention]]></title>
+            <description><![CDATA[Rory McIlroy recovers from the setback of being penalised two shots in his opening round at the Abu Dhabi Championship by firing 11 birdies in a nine-under-par 63 in round two on Friday.]]></description>
+            <link>https://www.bbc.co.uk/sport/golf/articles/cq78ppmj0zm3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/golf/articles/cq78ppmj0zm3o#8</guid>
+            <pubDate>Fri, 06 Nov 2026 11:40:03 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96fb/live/da2276c0-d9d1-11f1-9e5a-c30c5e3d8c85.jpg"/>
         </item>
         <item>
             <title><![CDATA['Putting his doubters in their place' - Rooney lands pundit of year award]]></title>
@@ -247,6 +247,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/968f/live/1d5335f0-d84d-11f1-b870-55415e6a9944.png"/>
         </item>
         <item>
+            <title><![CDATA[Coach who helped Sinner to the top set to depart]]></title>
+            <description><![CDATA[The coach who helped guide Jannik Sinner to five Grand Slam titles and the world number one spot is to leave the player's camp at the end of the year.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/articles/c64g11venm0ko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/c64g11venm0ko#8</guid>
+            <pubDate>Fri, 06 Nov 2026 11:21:05 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/630b/live/8675c260-d9d2-11f1-9e5a-c30c5e3d8c85.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Australia recruit Hussey for Ashes build-up]]></title>
             <description><![CDATA[Australia recruit Michael Hussey as a long-term batting consultant to help them prepare for the 2027 Ashes and 2028 Los Angeles Olympics.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/articles/c9y7lln8vyglo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -255,12 +263,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c78f/live/9ed8c3b0-d9b5-11f1-bbc7-9574ed12e2df.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Lampard looks for Coventry progress as belief grows]]></title>
-            <description><![CDATA[Coventry City could move 11th in the Premier League with victory at Everton on Friday as Frank Lampard returns to the Toffees with his side growing in confidence.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cr20w943gvl5o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cr20w943gvl5o#8</guid>
-            <pubDate>Fri, 06 Nov 2026 08:11:03 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f10/live/07e8baa0-d95b-11f1-a800-d9dce9e5aa21.jpg"/>
+            <title><![CDATA[A bitter end for Ronaldo - the icon who transformed Portugal]]></title>
+            <description><![CDATA[As Cristiano Ronaldo retires from international football, Guillem Balague looks at why and what is next for the Portugal legend. ]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo#8</guid>
+            <pubDate>Thu, 05 Nov 2026 14:29:40 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cf5/live/dfdded40-d915-11f1-a81d-35e942472442.jpg"/>
         </item>
     </channel>
 </rss>
