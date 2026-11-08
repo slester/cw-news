@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Nov 2026 10:41:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Nov 2026 11:12:44 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -23,20 +23,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b00d/live/84d82e90-dafc-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Veterans shouldn't sleep rough this Christmas, Burnham says]]></title>
-            <description><![CDATA[Downing Street says the prime minister will personally write to councils on Armistice Day to urge them to draw up plans.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c6pwg4ddwkzeo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6pwg4ddwkzeo#1</guid>
-            <pubDate>Sun, 08 Nov 2026 03:34:22 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa5e/live/9a627e50-dae8-11f1-93e1-3b657b665bcf.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Two seriously hurt in 30-vehicle crash on the M20 in Kent]]></title>
-            <description><![CDATA[The crash happened in fog on Saturday evening on the London-bound carriageway near Maidstone, Kent.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/ck87z9exex2lo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck87z9exex2lo#1</guid>
-            <pubDate>Sun, 08 Nov 2026 04:09:21 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9db/live/1a0c2d60-db23-11f1-a701-fddedf244c16.jpg"/>
+            <title><![CDATA[Government 'looking seriously' at banning under-16s from Vinted and eBay]]></title>
+            <description><![CDATA[The culture secretary confirms reports they could be in the list of platforms set to be banned next March.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro#1</guid>
+            <pubDate>Sun, 08 Nov 2026 10:44:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1427/live/5d17fd80-db61-11f1-adda-c54f54e3ce6a.jpg"/>
         </item>
         <item>
             <title><![CDATA[Trump asks UFC boss to be White House press secretary: 'Dana, please take the job!']]></title>
@@ -45,6 +37,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cvze47p9jeexo#1</guid>
             <pubDate>Sun, 08 Nov 2026 00:31:53 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8536/live/2fdfe760-dafd-11f1-b441-2b33b063138f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Veterans shouldn't sleep rough this Christmas, Burnham says]]></title>
+            <description><![CDATA[Downing Street says the prime minister will personally write to councils on Armistice Day to urge them to draw up plans.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6pwg4ddwkzeo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6pwg4ddwkzeo#1</guid>
+            <pubDate>Sun, 08 Nov 2026 03:34:22 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa5e/live/9a627e50-dae8-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
             <title><![CDATA[My parents chose to die together and I was left to grieve alone ]]></title>
@@ -103,20 +103,20 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d01/live/81eb37e0-d877-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Two seriously hurt in 30-vehicle crash on the M20 in Kent]]></title>
+            <description><![CDATA[The crash happened in fog on Saturday evening on the London-bound carriageway near Maidstone, Kent.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ck87z9exex2lo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck87z9exex2lo#3</guid>
+            <pubDate>Sun, 08 Nov 2026 04:09:21 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9db/live/1a0c2d60-db23-11f1-a701-fddedf244c16.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Israel's president tasks opposition leader Eisenkot with forming government]]></title>
             <description><![CDATA[Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmy8367lj5xlo#3</guid>
             <pubDate>Sat, 07 Nov 2026 22:19:59 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ff8/live/d9aea170-daf1-11f1-a701-fddedf244c16.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Papers: 'Briton dies in Krakow shootings' and 'Royals honour the fallen']]></title>
-            <description><![CDATA[The Royal Family are pictured attending the Festival of Remembrance on a number of Sunday's front pages.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cr9dz7jqel02o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cr9dz7jqel02o#3</guid>
-            <pubDate>Sun, 08 Nov 2026 06:40:02 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2c8/live/b0f2a080-db30-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
             <title><![CDATA[There's finally a treatment for my five-year-old's dementia - but it'll cost me £3m]]></title>
@@ -231,12 +231,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e50/live/d7267220-db00-11f1-969c-27c4482e95aa.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Maresca's dream start turns into nightmare as title hopes hit]]></title>
-            <description><![CDATA[Enzo Maresca left the City Ground with chants of "can we play you every week?" ringing in his ears, as Manchester City's dream start turns into a nightmare.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cm93z0l03n8vo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm93z0l03n8vo#9</guid>
-            <pubDate>Sat, 07 Nov 2026 20:54:12 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f6a/live/bd923d40-daf0-11f1-827e-c7e7ee102257.jpg"/>
+            <title><![CDATA[Why Wales have a lot to prove despite beating Japan]]></title>
+            <description><![CDATA[BBC Sport Wales analyses what went right and wrong for Wales in their uninspiring 28-21 win against Japan.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/articles/cx98z74gg69mo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-union/articles/cx98z74gg69mo#9</guid>
+            <pubDate>Sun, 08 Nov 2026 10:13:56 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16a9/live/c599e170-db57-11f1-ad76-19cbf76aebb9.jpg"/>
         </item>
     </channel>
 </rss>
