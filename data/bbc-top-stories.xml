@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 13 Nov 2026 11:25:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Nov 2026 12:03:53 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -159,6 +159,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0be/live/2ecff280-d2f0-11f1-8d86-83eebc838351.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Rosalía scoops historic third best album award at Latin Grammys]]></title>
+            <description><![CDATA[The Spanish singer is recognised for her fourth album Lux which was released last year to rave reviews.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cr3eg97eqde1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cr3eg97eqde1o#4</guid>
+            <pubDate>Fri, 13 Nov 2026 11:38:54 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b59/live/d91bb2b0-df43-11f1-a48c-75dd2efdacb5.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Man charged over multiple sex assaults at university]]></title>
             <description><![CDATA[Sophan Akbash, 29, from Huddersfield, is due to appear before Leeds Magistrates Court later.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cm5y1jp7p5yko?at_medium=RSS&amp;at_campaign=rss</link>
@@ -167,20 +175,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/183a/live/e7f52560-deac-11f1-8253-3f203a001288.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Blink-182 to make Download debut as 2027 festival headliners]]></title>
-            <description><![CDATA[Evanescence and Bring Me The Horizon will also top the bill at the rock and metal festival.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cm62pd078kk7o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm62pd078kk7o#4</guid>
-            <pubDate>Fri, 13 Nov 2026 07:49:40 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88f1/live/46908030-df32-11f1-911b-97a04d97270a.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[MI5 will need proof to be believed in future, says Leveson after BBC investigation]]></title>
             <description><![CDATA[The BBC exposed how the security service had lied to three courts concerning Agent X.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c98r7dlj6v2go?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c98r7dlj6v2go#4</guid>
             <pubDate>Fri, 13 Nov 2026 00:54:50 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79c9/live/375f6790-decc-11f1-b441-2b33b063138f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Blink-182 to make Download debut as 2027 festival headliners]]></title>
+            <description><![CDATA[Evanescence and Bring Me The Horizon will also top the bill at the rock and metal festival.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cm62pd078kk7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm62pd078kk7o#4</guid>
+            <pubDate>Fri, 13 Nov 2026 07:49:40 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88f1/live/46908030-df32-11f1-911b-97a04d97270a.jpg"/>
         </item>
         <item>
             <title><![CDATA[England thrashed by Australia in first one day international]]></title>
@@ -197,14 +205,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c52e8kdp2kjzo#4</guid>
             <pubDate>Fri, 13 Nov 2026 00:05:14 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e5b/live/94f10c10-deb8-11f1-8fb5-a771a656a227.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[African Miss Universe beauty queens in limbo as US visa restrictions bite]]></title>
-            <description><![CDATA[Hall has been seeking a US visa in South Africa as other African beauty queens face similar hurdles.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cklyw3neqg2wo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cklyw3neqg2wo#4</guid>
-            <pubDate>Fri, 13 Nov 2026 07:01:43 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c93/live/2288e9c0-df28-11f1-b396-2b394d1b806d.jpg"/>
         </item>
         <item>
             <title><![CDATA[Download now]]></title>
@@ -231,22 +231,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6450/live/7c0b52e0-dd38-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[England thrashed by Australia in first ODI]]></title>
-            <description><![CDATA[England meekly offer Australia respite from the ongoing sandpaper scandal by being bowled out for 131 in the first one-day international in Perth.]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/articles/c6rrg52pvjpko?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/articles/c6rrg52pvjpko#8</guid>
-            <pubDate>Fri, 13 Nov 2026 09:31:34 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef9e/live/9e5c94f0-df3e-11f1-a48c-75dd2efdacb5.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fernandes rejects second Man Utd contract offer]]></title>
-            <description><![CDATA[Manchester United captain Bruno Fernandes rejects the club's second contract offer, with his current deal due to expire at the end of the season.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cm782d4pz9jyo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm782d4pz9jyo#8</guid>
-            <pubDate>Fri, 13 Nov 2026 09:55:01 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f4c/live/65464ec0-df45-11f1-a48c-75dd2efdacb5.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[How Ferguson-inspired Pochettino can succeed where Carrick failed at Man Utd]]></title>
             <description><![CDATA[With Mauricio Pochettino set to become Man Utd manager, we analyse if he can clear the tactical hurdles others haven't.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cm2kljzkw77ko?at_medium=RSS&amp;at_campaign=rss</link>
@@ -255,12 +239,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f043/live/468fa2e0-dddf-11f1-b465-b9821c2582d4.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Whatever happened to the diamond that went missing in F1 crash?]]></title>
-            <description><![CDATA[Whatever happened to the diamond that went missing after the Formula 1 car it was attached to crashed?]]></description>
-            <link>https://www.bbc.co.uk/sport/formula1/articles/c60735md0jrpo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/formula1/articles/c60735md0jrpo#8</guid>
-            <pubDate>Fri, 13 Nov 2026 06:12:20 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8b0/live/da7ae610-deaa-11f1-8253-3f203a001288.jpg"/>
+            <title><![CDATA[Surfing speedster Beardman gives a glimpse of Ashes future]]></title>
+            <description><![CDATA[Mahli Beardman gives England a glimpse into a possible Ashes future as he decimates their batting in Perth.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/articles/c6vg2dkyxp00o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/articles/c6vg2dkyxp00o#8</guid>
+            <pubDate>Fri, 13 Nov 2026 11:39:43 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7913/live/d3e15120-df51-11f1-b441-2b33b063138f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fernandes rejects second Man Utd contract offer]]></title>
+            <description><![CDATA[Manchester United captain Bruno Fernandes rejects the club's second contract offer, with his current deal due to expire at the end of the season.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cm782d4pz9jyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm782d4pz9jyo#8</guid>
+            <pubDate>Fri, 13 Nov 2026 09:55:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f4c/live/65464ec0-df45-11f1-a48c-75dd2efdacb5.jpg"/>
         </item>
         <item>
             <title><![CDATA[The driving-maul try machine - why rugby's steamroller gained traction]]></title>
@@ -277,14 +269,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/articles/cwq6e4y9525mo#8</guid>
             <pubDate>Fri, 13 Nov 2026 04:26:57 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39bd/live/e5ecf350-deee-11f1-99c8-f59e65cb7a51.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[England win Wheelchair World Cup for third time]]></title>
-            <description><![CDATA[England win the Wheelchair Rugby League World Cup for a record third time - beating France 50-38 in the final in Wollongong, Australia.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-league/articles/cmlyd6kxk72po?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-league/articles/cmlyd6kxk72po#8</guid>
-            <pubDate>Fri, 13 Nov 2026 11:10:36 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a56/live/433e1ab0-df4f-11f1-8364-2717a13d3b08.jpg"/>
         </item>
     </channel>
 </rss>
