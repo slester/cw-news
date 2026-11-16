@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 16 Nov 2026 11:55:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Nov 2026 12:38:02 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -91,7 +91,7 @@
             <description><![CDATA[The 39-year-old, from Harrogate, is due to appear in court on Monday, police say.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cmkgdx1ry2gyo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmkgdx1ry2gyo#1</guid>
-            <pubDate>Mon, 16 Nov 2026 10:08:37 GMT</pubDate>
+            <pubDate>Mon, 16 Nov 2026 12:24:46 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/749c/live/4682c7c0-e1a7-11f1-a83a-71a20ac9b219.jpg"/>
         </item>
         <item>
@@ -107,7 +107,7 @@
             <description><![CDATA[Riad Bouchaker was sentenced after the attempted murder of three children in November 2023.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cr0qj0nzwj34o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cr0qj0nzwj34o#1</guid>
-            <pubDate>Mon, 16 Nov 2026 11:34:40 GMT</pubDate>
+            <pubDate>Mon, 16 Nov 2026 12:27:15 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c5a/live/9c3bd7d0-e1af-11f1-9a3f-99aca912798e.jpg"/>
         </item>
         <item>
@@ -119,20 +119,20 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab33/live/9ed5ff60-dea9-11f1-98eb-79ee6ea9ba56.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Town rebuilt after devastating floods becomes showcase for Libyan strongman's rule]]></title>
+            <description><![CDATA[The remarkable reconstruction of Derna is being used as a showcase for the rest of Libya by Khalifa Haftar and his sons.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cr0qjz77j4k1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cr0qjz77j4k1o#2</guid>
+            <pubDate>Mon, 16 Nov 2026 00:11:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f0a/live/616751f0-df68-11f1-b441-2b33b063138f.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Homophobia on the rise in football - what is your club doing about it?]]></title>
             <description><![CDATA[Homophobia and transphobia are on the rise in English football, with new data revealing record numbers of discrimination reports in the game - so what is the Premier League doing about it?]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c617ked5wn9po?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c617ked5wn9po#2</guid>
             <pubDate>Mon, 16 Nov 2026 07:26:27 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3a9/live/e2ff0ba0-c707-11f1-bc2e-018d645d8d21.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[How did England cling on against Spain and what did Tuchel do differently?]]></title>
-            <description><![CDATA[Trying to protect a lead in the closing stages, England have been here before - so how did they cling on against Spain?]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c6742l4z91lwo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6742l4z91lwo#2</guid>
-            <pubDate>Mon, 16 Nov 2026 00:02:22 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41e2/live/f2069dc0-e14c-11f1-91da-8b08e1a7b4c4.jpg"/>
         </item>
         <item>
             <title><![CDATA[I survived a fire that killed my boyfriend - it was started by his brother]]></title>
@@ -151,12 +151,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc56/live/ce11ba80-de59-11f1-9b47-0919bf7329d1.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Jensen Huang allies campaign to reinstate the former Nvidia boss]]></title>
-            <description><![CDATA[Tech leaders, including Elon Musk, are among those backing a campaign  to "Bring Jensen Back".]]></description>
+            <title><![CDATA[Elon Musk joins 'Bring Jensen Back' campaign to reinstate the ex-Nvidia boss]]></title>
+            <description><![CDATA[A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cry49plv8v3go#4</guid>
-            <pubDate>Mon, 16 Nov 2026 11:45:40 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/119c/live/eaafa8b0-e1a5-11f1-8433-4325183b3814.jpg"/>
+            <pubDate>Mon, 16 Nov 2026 12:20:49 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36dc/live/86b75570-e1b8-11f1-9a3f-99aca912798e.jpg"/>
         </item>
         <item>
             <title><![CDATA['You're going to win the war': Harry praises war veterans on surprise Ukraine visit]]></title>
@@ -171,7 +171,7 @@
             <description><![CDATA[Germany, Denmark, Austria, Greece and the Netherlands are expected to announce a "return hub" for failed asylum seekers.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cw987343352go#4</guid>
-            <pubDate>Mon, 16 Nov 2026 11:47:17 GMT</pubDate>
+            <pubDate>Mon, 16 Nov 2026 12:36:17 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f790/live/14731cc0-bfcb-11f0-8456-eff94716b162.jpg"/>
         </item>
         <item>
@@ -223,20 +223,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Rumpelstiltskin fools Shrek into being erased from existence]]></title>
-            <description><![CDATA[The fairy tale is ogre. Fooled by Rumpelstiltskin, Shrek's world is turned upside down]]></description>
-            <link>https://www.bbc.co.uk/iplayer/episode/p01191m5/shrek-forever-after?at_mid=TlzQpz1XYq&amp;at_campaign=Shrek_Forever_After&amp;at_medium=display_ad&amp;at_campaign_type=owned&amp;at_nation=NET&amp;at_audience_id=SS&amp;at_product=iplayer&amp;at_brand=p01191m5&amp;at_ptr_name=bbc&amp;at_ptr_type=media&amp;at_format=image&amp;at_objective=consumption&amp;at_link_title=Shrek_Forever_After&amp;at_bbc_team=BBC</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/p01191m5/shrek-forever-after?at_mid=TlzQpz1XYq&amp;at_campaign=Shrek_Forever_After&amp;at_medium=display_ad&amp;at_campaign_type=owned&amp;at_nation=NET&amp;at_audience_id=SS&amp;at_product=iplayer&amp;at_brand=p01191m5&amp;at_ptr_name=bbc&amp;at_ptr_type=media&amp;at_format=image&amp;at_objective=consumption&amp;at_link_title=Shrek_Forever_After&amp;at_bbc_team=BBC#7</guid>
-            <pubDate>Sun, 18 Oct 2026 14:25:10 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82ed/live/c17af520-6a1e-11f1-8546-8f19e4fe30f4.jpg"/>
+            <title><![CDATA[Poppy Jay explores the appeal of being a tradwife]]></title>
+            <description><![CDATA[Happy homemaker or modern-day submission? Poppy Jay steps inside the world of tradwives]]></description>
+            <link>https://www.bbc.co.uk/iplayer/episode/m0034fdk?at_mid=rYnXJmy2He&amp;at_campaign=Young_British_and_Tradwife&amp;at_medium=display_ad&amp;at_campaign_type=owned&amp;at_nation=NET&amp;at_audience_id=SS&amp;at_product=iplayer&amp;at_brand=m0034fdk&amp;at_ptr_name=bbc&amp;at_ptr_type=media&amp;at_format=image&amp;at_objective=consumption&amp;at_link_title=Young_British_and_Tradwife&amp;at_bbc_team=BBC</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m0034fdk?at_mid=rYnXJmy2He&amp;at_campaign=Young_British_and_Tradwife&amp;at_medium=display_ad&amp;at_campaign_type=owned&amp;at_nation=NET&amp;at_audience_id=SS&amp;at_product=iplayer&amp;at_brand=m0034fdk&amp;at_ptr_name=bbc&amp;at_ptr_type=media&amp;at_format=image&amp;at_objective=consumption&amp;at_link_title=Young_British_and_Tradwife&amp;at_bbc_team=BBC#7</guid>
+            <pubDate>Mon, 16 Nov 2026 06:00:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/254a/live/2acf9930-ded3-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[60 minutes of perfection, 30 minutes of chaos - an England win for the ages]]></title>
-            <description><![CDATA[England's stunning win in Spain had everything - and was their best under Thomas Tuchel, writes Phil McNulty.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c933ge310n33o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c933ge310n33o#8</guid>
-            <pubDate>Sun, 15 Nov 2026 23:52:43 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b361/live/48cfe320-e146-11f1-93e1-3b657b665bcf.jpg"/>
+            <title><![CDATA[Klopp says Infantino worse than Blatter]]></title>
+            <description><![CDATA[Germany manager Jurgen Klopp says he "didn't think things could get worse after Sepp Blatter, but someone has managed to do just that" as he calls for Fifa president Gianni Infantino to be replaced.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cjr4gr2k41dxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cjr4gr2k41dxo#8</guid>
+            <pubDate>Mon, 16 Nov 2026 11:27:08 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/217d/live/86082020-e1ac-11f1-8ee3-23d0d09d2796.jpg"/>
         </item>
         <item>
             <title><![CDATA[Burnham urges caution on scrapping 3pm TV blackout]]></title>
@@ -247,12 +247,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4709/live/99edb2d0-e193-11f1-9e84-492a244b27cc.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Klopp says Infantino worse than Blatter]]></title>
-            <description><![CDATA[Germany manager Jurgen Klopp says he "didn't think things could get worse after Sepp Blatter, but someone has managed to do just that" as he calls for Fifa president Gianni Infantino to be replaced.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cjr4gr2k41dxo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cjr4gr2k41dxo#8</guid>
-            <pubDate>Mon, 16 Nov 2026 11:27:08 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/217d/live/86082020-e1ac-11f1-8ee3-23d0d09d2796.jpg"/>
+            <title><![CDATA[60 minutes of perfection, 30 minutes of chaos - an England win for the ages]]></title>
+            <description><![CDATA[England's stunning win in Spain had everything - and was their best under Thomas Tuchel, writes Phil McNulty.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c933ge310n33o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c933ge310n33o#8</guid>
+            <pubDate>Sun, 15 Nov 2026 23:52:43 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b361/live/48cfe320-e146-11f1-93e1-3b657b665bcf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Vinicius says transfer interest affected Real form]]></title>
+            <description><![CDATA[Real Madrid forward Vinicius Jr says he felt "truly overwhelmed" by transfer speculation in the summer.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cmqx584jwwpvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmqx584jwwpvo#8</guid>
+            <pubDate>Mon, 16 Nov 2026 12:01:16 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2464/live/48304950-e1aa-11f1-8ee3-23d0d09d2796.jpg"/>
         </item>
         <item>
             <title><![CDATA[Formula 1's one-race wonders]]></title>
@@ -269,22 +277,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/american-football/articles/cmjre22gz0wwo#8</guid>
             <pubDate>Mon, 16 Nov 2026 07:33:19 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a94/live/1d171260-e184-11f1-a2d0-ff163dc3689d.png"/>
-        </item>
-        <item>
-            <title><![CDATA[Belgium's record men's scorer Lukaku retires from internationals]]></title>
-            <description><![CDATA[Romelu Lukaku retires from international football, saying he has "enjoyed every single moment" of playing for Belgium.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cwlymxr0ge8zo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwlymxr0ge8zo#8</guid>
-            <pubDate>Mon, 16 Nov 2026 11:40:20 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af62/live/60764690-e1aa-11f1-8ee3-23d0d09d2796.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[How did England cling on against Spain and what did Tuchel do differently?]]></title>
-            <description><![CDATA[Trying to protect a lead in the closing stages, England have been here before - so how did they cling on against Spain?]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c6742l4z91lwo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6742l4z91lwo#8</guid>
-            <pubDate>Mon, 16 Nov 2026 00:02:22 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41e2/live/f2069dc0-e14c-11f1-91da-8b08e1a7b4c4.jpg"/>
         </item>
     </channel>
 </rss>
