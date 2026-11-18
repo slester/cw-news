@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Nov 2026 12:06:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Nov 2026 12:56:19 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -23,12 +23,28 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1732/live/d7b747f0-e339-11f1-a094-5fdc692f3e33.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Trump shakes hands with Putin and Xi ahead of historic talks in China]]></title>
+            <description><![CDATA[The three leaders will meet together for the first time on Thursday during a closely-watched summit.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo#1</guid>
+            <pubDate>Wed, 18 Nov 2026 12:39:24 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9fb/live/b2707bf0-e349-11f1-99aa-0f40b013ad11.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Watch: Why historic US, China and Russia meeting matters]]></title>
             <description><![CDATA[The BBC’s Laura Bicker, Steve Rosenberg and Nada Tawfik explain everything you need to know ahead of the unprecedented trilateral meeting.]]></description>
             <link>https://www.bbc.co.uk/news/videos/cqp86k23d84ro?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cqp86k23d84ro#1</guid>
             <pubDate>Wed, 18 Nov 2026 08:33:32 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afc5/live/a8cd8ac0-e344-11f1-99b6-a35a62fa4264.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Minister criticises media for 'amplifying' Russell Brand's prison message]]></title>
+            <description><![CDATA[Lucy Powell says outlets shouldn't have played a clip of a message read by the jailed rapist's wife.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cq702k1w8xd3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq702k1w8xd3o#1</guid>
+            <pubDate>Wed, 18 Nov 2026 12:11:39 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3906/live/4ed62600-e342-11f1-99aa-0f40b013ad11.jpg"/>
         </item>
         <item>
             <title><![CDATA[What's gone wrong at Britain's worst bathing site? ]]></title>
@@ -47,14 +63,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb1d/live/c5d2fbf0-e330-11f1-9c56-6ffaf0e1e706.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Lammy urges Burnham to take UK back into the EU]]></title>
-            <description><![CDATA[The former deputy PM's intervention comes after Burnham reopened a debate over the UK's long-term future.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cm9q8jx05q3go?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm9q8jx05q3go#1</guid>
-            <pubDate>Wed, 18 Nov 2026 11:52:30 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c37/live/55e74ef0-e32a-11f1-acde-0b701d18dadb.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Joanna Page says male actor made 'awful' and 'inappropriate' comments to her on set]]></title>
             <description><![CDATA[Page spoke of the comments during Tuesday's episode of I'm a Celebrity... Get Me Out Of Here! ]]></description>
             <link>https://www.bbc.co.uk/news/articles/cqj3kelenm0do?at_medium=RSS&amp;at_campaign=rss</link>
@@ -63,12 +71,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca06/live/582be290-e33c-11f1-99a1-253766e7ad8b.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Largest British study to check social media ban's effect on youth mental health]]></title>
-            <description><![CDATA[Ten different research teams will look at how well teenagers are coping without social media.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cm0evw0d2wq4o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm0evw0d2wq4o#1</guid>
-            <pubDate>Wed, 18 Nov 2026 00:49:31 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02cd/live/6ddfb5f0-e2bd-11f1-a094-5fdc692f3e33.jpg"/>
+            <title><![CDATA[Lammy urges Burnham to take UK back into the EU]]></title>
+            <description><![CDATA[The former deputy PM's intervention comes after Burnham reopened a debate over the UK's long-term future.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cm9q8jx05q3go?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm9q8jx05q3go#1</guid>
+            <pubDate>Wed, 18 Nov 2026 12:49:39 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c37/live/55e74ef0-e32a-11f1-acde-0b701d18dadb.jpg"/>
         </item>
         <item>
             <title><![CDATA[Harry Styles, Billie Eilish and Sam Fender to be youngest set of Glastonbury headliners for 30 years]]></title>
@@ -85,6 +93,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/c6wy0j1xeypqo#1</guid>
             <pubDate>Wed, 18 Nov 2026 10:34:57 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca33/live/deb790e0-e335-11f1-9479-d17d3e98c29d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Grand Theft Auto 6 is a masterpiece, say critics]]></title>
+            <description><![CDATA[Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cw8r75xm8v4po#2</guid>
+            <pubDate>Wed, 18 Nov 2026 12:22:15 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29a1/live/fdfec1e0-e2b7-11f1-a094-5fdc692f3e33.jpg"/>
         </item>
         <item>
             <title><![CDATA[The EU that Burnham is eyeing up is very different to the one Britain left ]]></title>
@@ -109,14 +125,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwvg2mxkd4x8o#2</guid>
             <pubDate>Wed, 18 Nov 2026 06:27:11 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1959/live/65173c80-e287-11f1-b166-176de21e2352.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal]]></title>
-            <description><![CDATA[China worries the scandal could ramp up pressure on the US  to further restrict the sale of advanced chips.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c5vg23g92rj4o#2</guid>
-            <pubDate>Tue, 17 Nov 2026 23:02:12 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec0d/live/1061d030-dea2-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
             <title><![CDATA[I want to know if toxic lagoon fire caused my husband's rare deadly cancer]]></title>
@@ -148,31 +156,31 @@
             <link>https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm5y1eejk292o#4</guid>
             <pubDate>Wed, 18 Nov 2026 04:00:54 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0369/live/387a8f10-e2ff-11f1-a094-5fdc692f3e33.jpg"/>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/650b/live/aea40010-e348-11f1-99b6-a35a62fa4264.jpg"/>
         </item>
         <item>
             <title><![CDATA[Brain cancer patients demand public inquiry into chemotherapy scandal]]></title>
             <description><![CDATA[A wider review of affected patients should be discussed with the government, the report recommends.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cmwy83q9wzpvo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmwy83q9wzpvo#4</guid>
-            <pubDate>Wed, 18 Nov 2026 11:32:14 GMT</pubDate>
+            <pubDate>Wed, 18 Nov 2026 12:42:25 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/812c/live/71c7dc40-e323-11f1-baab-4b3b35d174b7.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Home secretary plans to tackle 'perception of two-tier policing']]></title>
-            <description><![CDATA[Shabana Mahmood will announce stronger guidance on police impartiality.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c3vg24wpg040o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c3vg24wpg040o#4</guid>
-            <pubDate>Tue, 17 Nov 2026 22:31:32 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4035/live/d90bfb90-e2c2-11f1-a9da-01a195e70ea0.jpg"/>
+            <title><![CDATA[Largest British study to check social media ban's effect on youth mental health]]></title>
+            <description><![CDATA[Ten different research teams will look at how well teenagers are coping without social media.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cm0evw0d2wq4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm0evw0d2wq4o#4</guid>
+            <pubDate>Wed, 18 Nov 2026 00:49:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02cd/live/6ddfb5f0-e2bd-11f1-a094-5fdc692f3e33.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Burnham promises to 'move quickly' on Neets report]]></title>
-            <description><![CDATA[The prime minister tells the BBC he wants to get "stuck in" after the Milburn report proposes wide-ranging changes to help unemployed young people.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c8n50457edd4o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c8n50457edd4o#4</guid>
-            <pubDate>Wed, 18 Nov 2026 11:33:59 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6d5/live/68b519f0-e31a-11f1-a094-5fdc692f3e33.jpg"/>
+            <title><![CDATA[Ivan Toney loses bid to avoid Euro 2028 court clash]]></title>
+            <description><![CDATA[Ivan Toney's trial, for an alleged assault which he denies, is due to take place during the Euro 2028 tournament. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ckm2m1899mqyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckm2m1899mqyo#4</guid>
+            <pubDate>Wed, 18 Nov 2026 12:46:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cbd/live/7b56a630-e349-11f1-99aa-0f40b013ad11.jpg"/>
         </item>
         <item>
             <title><![CDATA[British hacker who stole $11m through text message scheme jailed for six years in US]]></title>
@@ -183,12 +191,12 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee74/live/b9842e30-e337-11f1-9479-d17d3e98c29d.png"/>
         </item>
         <item>
-            <title><![CDATA[Democrats win Alaska Senate race two weeks after midterms counting began]]></title>
-            <description><![CDATA[Confirmation of Mary Peltola's victory caps of the party's rout of the Republicans in the midterms Senate election.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo#4</guid>
-            <pubDate>Wed, 18 Nov 2026 10:23:57 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d67f/live/0f9d15b0-e339-11f1-a094-5fdc692f3e33.jpg"/>
+            <title><![CDATA[Police boss vows to expel racists and misogynists]]></title>
+            <description><![CDATA[A chief constable vows "zero tolerance" as a former officer alleges she was abused by a colleague.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6evrjm9grvlo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6evrjm9grvlo#4</guid>
+            <pubDate>Wed, 18 Nov 2026 06:06:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e13/live/b883d5b0-df88-11f1-a5d4-0b20a170e974.jpg"/>
         </item>
         <item>
             <title><![CDATA['Human' is Cambridge Dictionary Word of the Year]]></title>
@@ -231,6 +239,14 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4340/live/03972910-e346-11f1-99aa-0f40b013ad11.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Joint-record six referee errors in last Premier League weekend]]></title>
+            <description><![CDATA[The Premier League's Key Match Incidents Panel rules there were six on-field errors in the last round of games - the joint-highest in one weekend.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c69q8jy924y4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c69q8jy924y4o#8</guid>
+            <pubDate>Wed, 18 Nov 2026 12:38:38 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d44c/live/1634e590-e345-11f1-99aa-0f40b013ad11.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[The 3pm football blackout: Outdated or still relevant in 2026?]]></title>
             <description><![CDATA[After 60 years, is time finally running out on the 3pm blackout in football?]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cwvg2mxkd4x8o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -261,14 +277,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c8p3vwe1rrzqo#8</guid>
             <pubDate>Wed, 18 Nov 2026 10:12:46 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7628/live/c13178a0-e336-11f1-9479-d17d3e98c29d.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Josh Kerr: The making of the man behind the shades]]></title>
-            <description><![CDATA[People know Josh Kerr the athlete. But are there two Josh Kerrs? The mile world record holder talks about disguising alcohol-free cider, entering races under a false name and his granny keeping him humble.]]></description>
-            <link>https://www.bbc.co.uk/sport/athletics/articles/cwe8506v754yo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/athletics/articles/cwe8506v754yo#8</guid>
-            <pubDate>Wed, 18 Nov 2026 07:18:18 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/260b/live/4dcbbf80-dddf-11f1-b465-b9821c2582d4.jpg"/>
         </item>
     </channel>
 </rss>
