@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Nov 2026 12:01:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Nov 2026 12:43:35 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -47,14 +47,6 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3bf1/live/0fd5d6a0-e4b2-11f1-a1dc-9f4190df3aa7.png"/>
         </item>
         <item>
-            <title><![CDATA[Mouldy, infested housing for vulnerable people sold as ethical investments abroad]]></title>
-            <description><![CDATA[The properties are marketed at premium prices with claims of “government-backed” returns, the BBC finds.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c6evre8j12vno?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6evre8j12vno#1</guid>
-            <pubDate>Fri, 20 Nov 2026 06:00:33 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ab0/live/93e294b0-e4cb-11f1-99b6-a35a62fa4264.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[UK braces for coldest night of autumn so far with temperature of -10C forecast]]></title>
             <description><![CDATA[Friday night is expected to be the coldest of the autumn so far with temperatures dropping as low as minus 10C, as Simon King explains.]]></description>
             <link>https://www.bbc.co.uk/weather/articles/c30rkzwvwy49o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -63,11 +55,19 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/deb6/live/abdec670-e4c5-11f1-a094-5fdc692f3e33.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Three Kyiv bridges hit during major Russian missile attack]]></title>
-            <description><![CDATA[Five people were killed in a wave of strikes which follow Ukraine's successful targeting of the Crimean Bridge.]]></description>
+            <title><![CDATA[Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk]]></title>
+            <description><![CDATA[Prime Minister Donald Tusk said it did not appear to be an accident when Western military exercises were taking place in the region.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqx2x9dklxnro#1</guid>
+            <pubDate>Fri, 20 Nov 2026 12:41:52 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60d1/live/638e94f0-e4dd-11f1-9cc5-e9713e77fd78.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge]]></title>
+            <description><![CDATA[Russia launched one of its biggest air attacks yet as it rejected the prospect of security guarantees for Ukraine.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o#1</guid>
-            <pubDate>Fri, 20 Nov 2026 11:12:57 GMT</pubDate>
+            <pubDate>Fri, 20 Nov 2026 12:34:54 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5e9/live/350d4310-e4d3-11f1-b045-89fda867dd9a.jpg"/>
         </item>
         <item>
@@ -103,12 +103,20 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f02b/live/b8c81f90-e447-11f1-9192-3924a59e54c7.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Bowen: Myanmar genocide verdict is historic and could have far-reaching implications]]></title>
-            <description><![CDATA[Lawyers will study the way in which The Gambia proved the crucial point that Myanmar intended to commit genocide, writes the BBC's international editor.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c6ly58ndgd0no?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6ly58ndgd0no#2</guid>
-            <pubDate>Thu, 19 Nov 2026 20:02:02 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6fc/live/482060d0-e489-11f1-844f-c7a24d31dcc3.jpg"/>
+            <title><![CDATA[Mouldy, infested housing for vulnerable people sold as ethical investments abroad]]></title>
+            <description><![CDATA[The properties are marketed at premium prices with claims of “government-backed” returns, the BBC finds.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6evre8j12vno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6evre8j12vno#2</guid>
+            <pubDate>Fri, 20 Nov 2026 06:00:33 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ab0/live/93e294b0-e4cb-11f1-99b6-a35a62fa4264.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Does our ethnicity change how we experience dying?]]></title>
+            <description><![CDATA[Death is the one certainty we all share - but could our ethnicity change how we go through it?]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cv7028g0j3yxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cv7028g0j3yxo#2</guid>
+            <pubDate>Fri, 20 Nov 2026 01:29:43 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2fd/live/eeca2fc0-e2b2-11f1-8226-87dfa5049e9a.jpg"/>
         </item>
         <item>
             <title><![CDATA[Mysterious Mercury is about to get a visitor - after spacecraft's eight-year epic voyage ]]></title>
@@ -120,28 +128,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eca5/live/034a6cb0-e4c7-11f1-a094-5fdc692f3e33.png"/>
         </item>
         <item>
-            <title><![CDATA[The art of protection - inside an F1 helmet factory]]></title>
-            <description><![CDATA[Inside the extraordinary world of Formula 1 helmets, where precision engineering, personal expression and life-saving technology join forces.]]></description>
-            <link>https://www.bbc.co.uk/sport/formula1/articles/cm20vpq8z6n4o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/formula1/articles/cm20vpq8z6n4o#2</guid>
-            <pubDate>Fri, 20 Nov 2026 06:29:04 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e629/live/f5c14900-e4b3-11f1-99a1-253766e7ad8b.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Does our ethnicity change how we experience dying?]]></title>
-            <description><![CDATA[Death is the one certainty we all share - but could our ethnicity change how we go through it?]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cv7028g0j3yxo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cv7028g0j3yxo#2</guid>
-            <pubDate>Fri, 20 Nov 2026 01:29:43 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2fd/live/eeca2fc0-e2b2-11f1-8226-87dfa5049e9a.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Eating at your desk? The dos and don'ts of lunch at work]]></title>
             <description><![CDATA[Eating at your desk? The dos and don'ts of lunch at work]]></description>
             <link>https://www.bbc.co.uk/news/articles/cwp8g4092zglo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwp8g4092zglo#2</guid>
             <pubDate>Fri, 20 Nov 2026 00:08:37 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d971/live/c0e0ad80-e4cb-11f1-99b6-a35a62fa4264.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bowen: Myanmar genocide verdict is historic and could have far-reaching implications]]></title>
+            <description><![CDATA[Lawyers will study the way in which The Gambia proved the crucial point that Myanmar intended to commit genocide, writes the BBC's international editor.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6ly58ndgd0no?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6ly58ndgd0no#2</guid>
+            <pubDate>Thu, 19 Nov 2026 20:02:02 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6fc/live/482060d0-e489-11f1-844f-c7a24d31dcc3.jpg"/>
         </item>
         <item>
             <title><![CDATA[Weekly quiz: Which star played cricket with Catherine in India?]]></title>
@@ -185,7 +185,7 @@
         </item>
         <item>
             <title><![CDATA[Missing fishing boat Kilda recovered from waters off Orkney]]></title>
-            <description><![CDATA[The Kilda and its three crew was reported missing near Lewis on 13 October.]]></description>
+            <description><![CDATA[The Kilda and its three crew were reported missing near Lewis on 13 October.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cmp86k870wz6o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmp86k870wz6o#4</guid>
             <pubDate>Fri, 20 Nov 2026 09:36:53 GMT</pubDate>
@@ -232,6 +232,22 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e8c4/live/5e65d480-e4c8-11f1-8ebd-0fa6091698b5.jpg"/>
         </item>
         <item>
+            <title><![CDATA[GB's Davis Cup-winning captain ends 17-year stint]]></title>
+            <description><![CDATA[Leon Smith says helping Britain end a 79-year wait to win the Davis Cup is "one of the proudest moments" of his career.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/articles/cvze7d03880ko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/cvze7d03880ko#8</guid>
+            <pubDate>Fri, 20 Nov 2026 12:00:10 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/139d/live/d94e2460-e4d5-11f1-b045-89fda867dd9a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Southampton give head coach Eckert new deal]]></title>
+            <description><![CDATA[Southampton head coach Tonda Eckert signs a new contract at the club through until 2029. ]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cwm25yx3kj5lo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwm25yx3kj5lo#8</guid>
+            <pubDate>Fri, 20 Nov 2026 12:33:39 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png"/>
+        </item>
+        <item>
             <title><![CDATA[Russell fastest in Las Vegas practice after rain]]></title>
             <description><![CDATA[Mercedes' George Russell topped a second practice session at the Las Vegas Grand Prix run on a wet but slowly drying track.]]></description>
             <link>https://www.bbc.co.uk/sport/formula1/articles/c9gklmdmnzydo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -248,28 +264,12 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/726c/live/32741560-c8aa-11f1-9c75-6ff1271de385.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Rams star Nacua suspended for personal conduct violation]]></title>
-            <description><![CDATA[Puka Nacua is given a three-game suspension for violating the NFL's personal conduct policy, although the Los Angeles Rams wide receiver was already out injured.]]></description>
-            <link>https://www.bbc.co.uk/sport/american-football/articles/c6vg21xdgpqgo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/american-football/articles/c6vg21xdgpqgo#8</guid>
-            <pubDate>Fri, 20 Nov 2026 09:38:14 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b7f/live/ed807de0-e4c4-11f1-87df-79d8910e0f29.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[History, hunger and headline bills - why Price is box office]]></title>
-            <description><![CDATA[As Lauren Price bids to become Wales' first undisputed world champion, the former footballer already has her sights set on stadium fights.]]></description>
-            <link>https://www.bbc.co.uk/sport/boxing/articles/crwy8e7d5lj1o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/boxing/articles/crwy8e7d5lj1o#8</guid>
-            <pubDate>Fri, 20 Nov 2026 05:32:13 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6ca/live/c3b2ab80-e4c6-11f1-87df-79d8910e0f29.png"/>
-        </item>
-        <item>
-            <title><![CDATA[Inside the rise of 'humble' Nyoni and why Iraola trusts him]]></title>
-            <description><![CDATA[Teenage midfielder Trey Nyoni backed himself in the summer to play regular football for Liverpool. He is doing exactly that and thriving under Andoni Iraola.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/ck24enjqvlyeo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ck24enjqvlyeo#8</guid>
-            <pubDate>Fri, 20 Nov 2026 07:42:04 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7f5/live/610e5c60-e361-11f1-a898-e7da1c1ebbf0.jpg"/>
+            <title><![CDATA[Scotland change captain again as Darge injured]]></title>
+            <description><![CDATA[Scotland are forced into a late change for Saturday's Nations Championship visit by Japan after Rory Darge, who was due to captain the side, is ruled out through injury.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/articles/c5n4ey83wk9ko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-union/articles/c5n4ey83wk9ko#8</guid>
+            <pubDate>Fri, 20 Nov 2026 11:58:22 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3ee/live/fcb9a610-e4d8-11f1-8940-3b665e3e1326.jpg"/>
         </item>
     </channel>
 </rss>
