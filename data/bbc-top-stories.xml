@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Nov 2026 13:30:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Nov 2026 14:25:06 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -31,20 +31,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cc6/live/7a950f50-e738-11f1-99b6-a35a62fa4264.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Police investigate unknown substance that caused Manchester's Co-op Live evacuation]]></title>
-            <description><![CDATA[People describe a "horrible smell" and hearing screaming as they were evacuated from the Don Toliver gig.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c9e851dn8516o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c9e851dn8516o#1</guid>
-            <pubDate>Mon, 23 Nov 2026 12:42:21 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a992/live/9f0fe980-e70c-11f1-99a1-253766e7ad8b.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Watch: What we know about Co-op Live 'major incident']]></title>
-            <description><![CDATA[Thousands evacuated from concert in Manchester after an 'unknown substance' was released into the crowd.]]></description>
-            <link>https://www.bbc.co.uk/news/videos/cmn50yy0ypy3o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cmn50yy0ypy3o#1</guid>
-            <pubDate>Mon, 23 Nov 2026 10:46:28 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26cb/live/f6ec4460-e738-11f1-a094-5fdc692f3e33.png"/>
+            <title><![CDATA[US rapper postpones O2 arena show after Manchester evacuation]]></title>
+            <description><![CDATA[His Manchester show on Sunday was evacuated after an "unknown substance" was released into the crowd.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ck3rgp4gv9pxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck3rgp4gv9pxo#1</guid>
+            <pubDate>Mon, 23 Nov 2026 14:21:19 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfc1/live/cdea3a90-e747-11f1-88dc-f746e0cde621.jpg"/>
         </item>
         <item>
             <title><![CDATA[Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says]]></title>
@@ -60,7 +52,7 @@
             <link>https://www.bbc.co.uk/sport/boxing/articles/c6y80n3dn15yo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/boxing/articles/c6y80n3dn15yo#1</guid>
             <pubDate>Mon, 23 Nov 2026 09:53:52 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7f7/live/4c6eae80-e709-11f1-b584-c942e4bef845.jpg"/>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4dc4/live/a5db04f0-e745-11f1-99b6-a35a62fa4264.jpg"/>
         </item>
         <item>
             <title><![CDATA[Five takeaways from the failed climate talks COP31]]></title>
@@ -123,7 +115,7 @@
             <description><![CDATA[Rap fans say people were "choking" and "coughing up blood" after "some smoke" went off in Co-op Live.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cmgqx3ve732jo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmgqx3ve732jo#2</guid>
-            <pubDate>Mon, 23 Nov 2026 13:22:35 GMT</pubDate>
+            <pubDate>Mon, 23 Nov 2026 13:43:22 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/259e/live/9f625a00-e732-11f1-8294-033bd8ee7e95.png"/>
         </item>
         <item>
@@ -151,11 +143,11 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1809/live/4a45f590-e71e-11f1-99b6-a35a62fa4264.jpg"/>
         </item>
         <item>
-            <title><![CDATA['Friends were sceptical but it works for us': How to get along with your ex's previous and new partners]]></title>
+            <title><![CDATA[Tips on how to get along with your ex's previous and new partners]]></title>
             <description><![CDATA[Expert tips on how to get along with the mums and dads of your child's half-siblings.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c617kj1j1x4jo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c617kj1j1x4jo#2</guid>
-            <pubDate>Mon, 23 Nov 2026 12:58:00 GMT</pubDate>
+            <pubDate>Mon, 23 Nov 2026 13:58:21 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38bb/live/f8973da0-e72a-11f1-914b-6d226d813a52.jpg"/>
         </item>
         <item>
@@ -167,12 +159,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8db/live/8e755ec0-e707-11f1-983d-d53a3ea3525b.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say]]></title>
-            <description><![CDATA[Eleven people are dead in the attack on Dymer, with rescue efforts ongoing to find those still missing from the residential building.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqdr15l32d3go#4</guid>
-            <pubDate>Mon, 23 Nov 2026 05:33:17 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cce0/live/b754c730-e6bd-11f1-a023-d502158f79f8.jpg"/>
+            <title><![CDATA[GTA 6 hacker released on licence with warning 'don't let this happen again']]></title>
+            <description><![CDATA[21-year-old Arion Kurtaj pleaded guilty to the Rockstar Games hack and others he carried out when he was a teenager.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cqpv9kr7pxmro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqpv9kr7pxmro#4</guid>
+            <pubDate>Mon, 23 Nov 2026 14:08:50 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e22e/live/1d07a600-e269-11f1-a094-5fdc692f3e33.png"/>
         </item>
         <item>
             <title><![CDATA[Capita shares plunge 70% as boss quits after civil service pensions failure]]></title>
@@ -183,11 +175,19 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d59/live/4828e850-e726-11f1-914b-6d226d813a52.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say]]></title>
+            <description><![CDATA[Eleven people are dead in the attack on Dymer, with rescue efforts ongoing to find those still missing from the residential building.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqdr15l32d3go#4</guid>
+            <pubDate>Mon, 23 Nov 2026 05:33:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cce0/live/b754c730-e6bd-11f1-a023-d502158f79f8.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Flights and train services cancelled in Belgium due to strike]]></title>
             <description><![CDATA[A series of strikes have hit Belgium in recent months as the prime minister struggles to agree a budget to cut costs.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwdr155e2d05o#4</guid>
-            <pubDate>Mon, 23 Nov 2026 12:27:34 GMT</pubDate>
+            <pubDate>Mon, 23 Nov 2026 13:34:02 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6bf3/live/3920ed00-e738-11f1-8294-033bd8ee7e95.jpg"/>
         </item>
         <item>
@@ -205,14 +205,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6vg29g7dlyno#4</guid>
             <pubDate>Mon, 23 Nov 2026 13:02:05 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4632/live/52e19140-e715-11f1-99b6-a35a62fa4264.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian music legend Molly Meldrum dies aged 83]]></title>
-            <description><![CDATA[The promoter and broadcaster helped define the music tastes of Australians for decades.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c3qj57rkd2k1o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c3qj57rkd2k1o#4</guid>
-            <pubDate>Mon, 23 Nov 2026 01:03:35 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0cfc/live/c3bcfc70-e6ce-11f1-a9db-c39c38a2d17c.jpg"/>
         </item>
         <item>
             <title><![CDATA[Download now]]></title>
