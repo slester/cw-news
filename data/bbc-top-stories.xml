@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Nov 2026 13:01:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Nov 2026 13:46:39 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[UK net migration at lowest level since 1997 as asylum claims also fall]]></title>
+            <description><![CDATA[Net migration figures of 77,000 in the year to the end of June mark the lowest this century outside of the Covid pandemic.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cq36gj12n0l3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq36gj12n0l3o#1</guid>
+            <pubDate>Thu, 26 Nov 2026 13:03:29 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc65/live/28a10870-e99f-11f1-b880-15b494ba858d.jpg"/>
+        </item>
         <item>
             <title><![CDATA[German boat dealer suspected of supplying Channel smuggling gangs, BBC finds]]></title>
             <description><![CDATA[Nearly a third of crossings in early 2026 allegedly involved boats or engines from the German man's firm.]]></description>
@@ -35,7 +43,7 @@
             <description><![CDATA[It comes after reports that reservists have received letters telling them to prepare to be called up for war.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cvrlgznd9z4po?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cvrlgznd9z4po#1</guid>
-            <pubDate>Thu, 26 Nov 2026 11:40:05 GMT</pubDate>
+            <pubDate>Thu, 26 Nov 2026 13:24:22 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8429/live/e3809710-e98a-11f1-9d1c-4dcc8fcde666.jpg"/>
         </item>
         <item>
@@ -44,7 +52,7 @@
             <link>https://www.bbc.co.uk/weather/articles/cr3eg1py3gv5o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/weather/articles/cr3eg1py3gv5o#1</guid>
             <pubDate>Thu, 26 Nov 2026 00:08:07 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d2d7/live/8e73bca0-e96e-11f1-99a1-253766e7ad8b.jpg"/>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8736/live/0d69ad10-e99e-11f1-99b6-a35a62fa4264.jpg"/>
         </item>
         <item>
             <title><![CDATA[BBC launches partnership with Met Office for weather coverage]]></title>
@@ -151,28 +159,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e29e/live/9a874000-e970-11f1-a094-5fdc692f3e33.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Every day is living hell, says dad of boy, 2, murdered by grandparents]]></title>
+            <description><![CDATA[Ethan Ives-Griffiths' father says concerns about his son's safety "weren't heard" before his murder.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c8g46r0lnnw3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c8g46r0lnnw3o#4</guid>
+            <pubDate>Thu, 26 Nov 2026 11:59:50 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb1e/live/e8a0fc00-10b7-11f1-b048-c9424b2cf5fd.png"/>
+        </item>
+        <item>
             <title><![CDATA[Double jeopardy killer recommended for release from prison]]></title>
             <description><![CDATA[William Dunlop, who strangled Julie Hogg in County Durham, was jailed after a double jeopardy law change.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c8n50e4z9559o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c8n50e4z9559o#4</guid>
-            <pubDate>Thu, 26 Nov 2026 12:56:40 GMT</pubDate>
+            <pubDate>Thu, 26 Nov 2026 13:45:25 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c64/live/b18c51a0-e998-11f1-99b6-a35a62fa4264.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Government 'failed to make the case' for £33bn Heathrow expansion, report finds]]></title>
-            <description><![CDATA[The runway plans do not fully address issues including climate tests, the Transport Committee says.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/crjeqy2ndzy1o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crjeqy2ndzy1o#4</guid>
-            <pubDate>Thu, 26 Nov 2026 11:29:08 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82da/live/3c87da30-dccc-11ef-a37f-eba91255dc3d.png"/>
-        </item>
-        <item>
-            <title><![CDATA[Tributes for Duran Duran guitarist Andy Taylor after his death aged 65]]></title>
-            <description><![CDATA[Simon Le Bon and his other bandmates say Taylor "brought an indelible fire and swagger to our music".]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cmp3vk6vr44po?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmp3vk6vr44po#4</guid>
-            <pubDate>Thu, 26 Nov 2026 12:33:23 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c5d/live/e49fa530-e996-11f1-b880-15b494ba858d.jpg"/>
         </item>
         <item>
             <title><![CDATA[Private dentists too expensive for millions, watchdog warns]]></title>
@@ -183,12 +183,12 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f8f/live/65d6bd90-e97a-11f1-acd8-af22a7ebb474.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Drivers over 70 face eye tests every three years under new plans]]></title>
-            <description><![CDATA[The changes could see drivers over 70 stripped of licences if they do not meet standards.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cjqlqerzv1eyo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cjqlqerzv1eyo#4</guid>
-            <pubDate>Thu, 26 Nov 2026 11:21:45 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b37/live/d36e1fb0-e993-11f1-99a1-253766e7ad8b.jpg"/>
+            <title><![CDATA[Heathrow third runway plans 'should be grounded']]></title>
+            <description><![CDATA[The runway plans do not fully address issues including climate tests, the Transport Committee says.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/crjeqy2ndzy1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crjeqy2ndzy1o#4</guid>
+            <pubDate>Thu, 26 Nov 2026 13:29:54 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82da/live/3c87da30-dccc-11ef-a37f-eba91255dc3d.png"/>
         </item>
         <item>
             <title><![CDATA[Fifa confirms internal data stolen in cyber attack]]></title>
@@ -199,12 +199,30 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e820/live/06ab4690-e98b-11f1-9d1c-4dcc8fcde666.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Drivers over 70 face eye tests every three years under new plans]]></title>
+            <description><![CDATA[The changes could see drivers over 70 stripped of licences if they do not meet standards.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cjqlqerzv1eyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cjqlqerzv1eyo#4</guid>
+            <pubDate>Thu, 26 Nov 2026 11:21:45 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b37/live/d36e1fb0-e993-11f1-99a1-253766e7ad8b.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Download now]]></title>
             <description><![CDATA[Top stories, breaking news, live reporting, and follow news topics that match your interests]]></description>
             <link>https://www.bbc.co.uk/news/10628994?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/10628994#5</guid>
             <pubDate>Wed, 30 Apr 2025 14:04:28 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Not even making a 12-man bench - what next for Garnacho?]]></title>
+            <description><![CDATA[Alejandro Garnacho's brief Aston Villa career already looks over, so what next for the 22-year-old?
+
+]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cr3wgd5exl0do?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cr3wgd5exl0do#8</guid>
+            <pubDate>Thu, 26 Nov 2026 13:23:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a084/live/87c18b60-e8bc-11f1-9e64-bddd508b9881.jpg"/>
         </item>
         <item>
             <title><![CDATA[Faldo urges LIV stars to 'chip in' for unpaid firms]]></title>
@@ -237,22 +255,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-union/articles/c6wy4kmjggr9o#8</guid>
             <pubDate>Thu, 26 Nov 2026 10:28:10 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3846/live/eb826cc0-e91e-11f1-9108-c5b270b0703d.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fifa confirms internal data stolen in cyber attack]]></title>
-            <description><![CDATA[Fifa has confirmed it has been the victim of a cyber-attack which resulted in personal and business information being stolen.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/crd61nvg4d84o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/crd61nvg4d84o#8</guid>
-            <pubDate>Thu, 26 Nov 2026 11:30:07 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e820/live/06ab4690-e98b-11f1-9d1c-4dcc8fcde666.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[More ref frustration as Pochettino's chaotic start at Man Utd continues]]></title>
-            <description><![CDATA[What are the findings for Mauricio Pochettino after his first two matches as Manchester United manager?]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c6vg24l724l4o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6vg24l724l4o#8</guid>
-            <pubDate>Thu, 26 Nov 2026 00:24:48 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7aff/live/89296710-e930-11f1-99a1-253766e7ad8b.jpg"/>
         </item>
     </channel>
 </rss>
